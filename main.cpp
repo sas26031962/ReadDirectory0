@@ -7,11 +7,15 @@
 
 #include "crecord.h"
 
+//Глобальные переменные
+QList<cRecord> * cRecord::RecordList;
+
+//Главная функция программы
 int main(int argc, char *argv[]) {
     QCoreApplication a(argc, argv);
 
     std::unique_ptr<QList<cRecord> > ptrRecordList = std::make_unique<QList<cRecord> >();
-    QList<cRecord> * RecordList = ptrRecordList.get();// new QList<cRecord>();
+    cRecord::RecordList = ptrRecordList.get();
 
     // Путь к каталогу, который нужно прочитать.
     QString directoryPath = "/home/andy/Рабочий стол/From Smartfone"; // Путь для linux mint
@@ -43,7 +47,7 @@ int main(int argc, char *argv[]) {
 
     cRecord Record;
 
-    RecordList->clear();
+    cRecord::RecordList->clear();
 
     //---Запись данных---
     for (const QFileInfo &fileInfo : fileList)
@@ -60,7 +64,7 @@ int main(int argc, char *argv[]) {
 
         //Record.show();
 
-        RecordList->append(Record);
+        cRecord::RecordList->append(Record);
 
     }
 
@@ -68,13 +72,13 @@ int main(int argc, char *argv[]) {
 
     qDebug() << "====================";
 
-    int RecordListCount = RecordList->count();
+    int RecordListCount = cRecord::RecordList->count();
     qDebug() << "RecordList count=" << RecordListCount;
 
     for(int i = 0; i < RecordListCount; i++)
      {
         //memcpy(x, RecordList->at(i), len);
-        RecordList->at(i).show();
+        cRecord::RecordList->at(i).show();
         qDebug() << "Index=" << i;
     }
 

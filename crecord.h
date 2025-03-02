@@ -10,7 +10,7 @@ class cRecord
 public:
     //Атрибуты
 
-    //static QList<cRecord> * RecordList;
+    static QList<cRecord> * RecordList;
 
     QString qsName = "NoName";
     QString qsPath = "";
@@ -19,7 +19,6 @@ public:
 
     //Конструктор
     cRecord();
-//    ~cRecord();
 
     //Методы
     //static void showList();

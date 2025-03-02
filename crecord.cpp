@@ -5,11 +5,6 @@ cRecord::cRecord()
     qDebug() << "#cRecrod created";
 }
 
-//cRecord::~cRecord()
-//{
-//    qDebug() << "#cRecrod deleted";
-//}
-
 //void cRecord::showList()
 //{
 //    if(cRecord::RecordList->size() > 0)
