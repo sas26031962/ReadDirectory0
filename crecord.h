@@ -21,7 +21,7 @@ public:
     cRecord();
 
     //Методы
-    //static void showList();
+    static void showList();
     void show() const;
 
 signals:

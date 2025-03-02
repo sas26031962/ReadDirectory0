@@ -72,15 +72,7 @@ int main(int argc, char *argv[]) {
 
     qDebug() << "====================";
 
-    int RecordListCount = cRecord::RecordList->count();
-    qDebug() << "RecordList count=" << RecordListCount;
-
-    for(int i = 0; i < RecordListCount; i++)
-     {
-        //memcpy(x, RecordList->at(i), len);
-        cRecord::RecordList->at(i).show();
-        qDebug() << "Index=" << i;
-    }
+    cRecord::showList();//Отображение даных
 
     //---Освобождение ресурсов---
 

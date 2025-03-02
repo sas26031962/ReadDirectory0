@@ -5,24 +5,17 @@ cRecord::cRecord()
     qDebug() << "#cRecrod created";
 }
 
-//void cRecord::showList()
-//{
-//    if(cRecord::RecordList->size() > 0)
-//    {
-//        for(int i = 0; i < cRecord::RecordList->count(); i++)
-//        {
-//            qDebug() << "Name: " << cRecord::RecordList->at(i).qsName;
-//            qDebug() << "Path: " << cRecord::RecordList->at(i).qsPath;
-//            qDebug() << "Sise: " << cRecord::RecordList->at(i).iSize;
-//            qDebug() << "IsDir: " << cRecord::RecordList->at(i).IsDir;
-//            qDebug() << "--------------------";
-//        }
-//    }
-//    else
-//    {
-//        qDebug() << "List is empty";
-//    }
-//}
+void cRecord::showList()
+{
+    int RecordListCount = cRecord::RecordList->count();
+    qDebug() << "RecordList count=" << RecordListCount;
+
+    for(int i = 0; i < RecordListCount; i++)
+     {
+        cRecord::RecordList->at(i).show();
+        qDebug() << "Index=" << i;
+    }
+}
 
 void cRecord::show() const
 {
