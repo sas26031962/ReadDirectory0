@@ -2,18 +2,19 @@
 
 cRecord::cRecord()
 {
-    qDebug() << "#cRecrod created";
+    //qDebug() << "#cRecrod created";
 }
 
 void cRecord::showList()
 {
     int RecordListCount = cRecord::RecordList->count();
     qDebug() << "RecordList count=" << RecordListCount;
+    qDebug() << "--------------------";
 
     for(int i = 0; i < RecordListCount; i++)
      {
-        cRecord::RecordList->at(i).show();
         qDebug() << "Index=" << i;
+        cRecord::RecordList->at(i).show();
     }
 }
 
@@ -22,8 +23,8 @@ void cRecord::show() const
     qDebug() << "Name: " << qsName;
     qDebug() << "Path: " << qsPath;
     qDebug() << "Size: " << iSize;
-    qDebug() << "Is Directory: " << IsDir;
-    qDebug() << ">>Record size=" << sizeof (this);
+    //qDebug() << "Is Directory: " << IsDir;
+    //qDebug() << ">>Record size=" << sizeof (this);
     qDebug() << "--------------------";
 }
 
@@ -75,14 +76,13 @@ int cRecord::readDirectory(QString directoryPath)
         //Рекурсивный вызов
         if(isDir)
         {
-            QString s = directoryPath;
-            s += "/";
-            s += Record.qsPath;
+            QString s = fileInfo.filePath();
             cRecord::readDirectory(s);
         }
-
-        cRecord::RecordList->append(Record);
-
+        else
+        {
+            cRecord::RecordList->append(Record);
+        }
     }
 
     return result;
