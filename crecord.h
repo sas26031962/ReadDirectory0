@@ -1,8 +1,10 @@
 #ifndef CRECORD_H
 #define CRECORD_H
 
-#include <memory>
 #include <QDebug>
+#include <QDir>
+#include <QFileInfo>
+#include <QDirIterator>
 
 class cRecord
 {
@@ -22,6 +24,7 @@ public:
 
     //Методы
     static void showList();
+    static int readDirectory(QString directoryPath);
     void show() const;
 
 signals:

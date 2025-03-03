@@ -1,10 +1,5 @@
 #include <QCoreApplication>
-#include <QDir>
-#include <QFileInfo>
-#include <QDebug> // Для вывода в консоль
-#include <QDirIterator>
-#include <cstring>
-
+#include <memory>
 #include "crecord.h"
 
 //Глобальные переменные
@@ -22,6 +17,10 @@ int main(int argc, char *argv[]) {
     QString directoryPath = "C:/Work/Pictures"; // Путь для Windows10
     // QString directoryPath = QCoreApplication::applicationDirPath(); // текущая папка с исполняемым файлом
 
+    cRecord::RecordList->clear();
+
+    //---Зона процедуры чтения содержимого каталога ---
+/*
     // Объект QDir для работы с каталогом.
     QDir directory(directoryPath);
 
@@ -47,8 +46,6 @@ int main(int argc, char *argv[]) {
 
     cRecord Record;
 
-    cRecord::RecordList->clear();
-
     //---Запись данных---
     for (const QFileInfo &fileInfo : fileList)
     {
@@ -67,6 +64,14 @@ int main(int argc, char *argv[]) {
         cRecord::RecordList->append(Record);
 
     }
+*/
+    if(cRecord::readDirectory(directoryPath) > 0)
+    {
+        qDebug() << "Directory not found: " << directoryPath;
+        return 1;
+    }
+
+    //--- Завершение зоны процедуры чтения каталога ---
 
     //---Чтение данных---
 
