@@ -38,6 +38,7 @@ int cRecord::readDirectory(QString directoryPath)
     if (!directory.exists())
     {
         result = 1;
+        qDebug() << "!!!Directory '" << directoryPath << "' not found";
         return result;
     }
 
@@ -70,6 +71,15 @@ int cRecord::readDirectory(QString directoryPath)
         Record.IsDir = isDir;
 
         //Record.show();
+
+        //Рекурсивный вызов
+        if(isDir)
+        {
+            QString s = directoryPath;
+            s += "/";
+            s += Record.qsPath;
+            cRecord::readDirectory(s);
+        }
 
         cRecord::RecordList->append(Record);
 

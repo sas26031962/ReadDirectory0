@@ -67,7 +67,7 @@ int main(int argc, char *argv[]) {
 */
     if(cRecord::readDirectory(directoryPath) > 0)
     {
-        qDebug() << "Directory not found: " << directoryPath;
+        //qDebug() << "Directory not found: " << directoryPath;
         return 1;
     }
 
