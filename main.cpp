@@ -18,9 +18,9 @@ int main(int argc, char *argv[]) {
     cRecord::RecordList = ptrRecordList.get();
 
     // Путь к каталогу, который нужно прочитать.
-    QString directoryPath = "/home/andy/Рабочий стол/From Smartfone"; // Путь для linux mint
-    //QString directoryPath = "C:/Work/Pictures"; // Путь для Windows10
-   // QString directoryPath = QCoreApplication::applicationDirPath(); // текущая папка с исполняемым файлом
+    //QString directoryPath = "/home/andy/Рабочий стол/From Smartfone"; // Путь для linux mint
+    QString directoryPath = "C:/Work/Pictures"; // Путь для Windows10
+    // QString directoryPath = QCoreApplication::applicationDirPath(); // текущая папка с исполняемым файлом
 
     // Объект QDir для работы с каталогом.
     QDir directory(directoryPath);
@@ -28,7 +28,7 @@ int main(int argc, char *argv[]) {
     // Проверка существования  каталога
     if (!directory.exists())
     {
-        qDebug() << "Каталог не существует: " << directoryPath;
+        qDebug() << "Directory not found: " << directoryPath;
         return 1;
     }
 
