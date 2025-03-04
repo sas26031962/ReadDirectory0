@@ -25,7 +25,7 @@ int main(int argc, char *argv[]) {
 
     // Создаем объект QSettings с указанием формата INI и пути к файлу
     QSettings settings(iniFilePath, QSettings::IniFormat);
-
+/*
     // Записываем значения
     settings.beginGroup("MyGroup");
     settings.setValue("setting1", "value1");
@@ -40,7 +40,7 @@ int main(int argc, char *argv[]) {
 
     qDebug() << "setting1: " << value1;
     qDebug() << "setting2: " << value2;
-
+*/
     qDebug() << "INI file created at: " << iniFilePath;
 
     //---Очистка рабочего списка
@@ -53,11 +53,35 @@ int main(int argc, char *argv[]) {
         return 1;
     }
 
-    //---Чтение данных---
-
     qDebug() << "====================";
 
-    cRecord::showList();//Отображение даных
+    //---Чтение данных---
+
+    //cRecord::showList();//Отображение даных
+
+    //---Добавление данных в файл конфигурации
+    for(int i = 0; i < cRecord::RecordList->count(); i++)
+     {
+        QString name = cRecord::RecordList->at(i).qsName;
+        int iDotPosition = name.indexOf('.');
+        QString groupName = name.mid(0, iDotPosition);
+        qDebug() << "groupName=" << groupName;
+
+        QString path = cRecord::RecordList->at(i).qsPath;
+        int iNamePosition = path.indexOf(name);
+        QString PathWithoutName = path.mid(0, iNamePosition - 1);
+        qDebug() << "Path=" << PathWithoutName;
+
+        int size = cRecord::RecordList->at(i).iSize;
+
+        settings.beginGroup(groupName);
+        settings.setValue("name", name);
+        settings.setValue("path", PathWithoutName);
+        settings.setValue("size", size);
+        settings.endGroup();
+
+        //cRecord::RecordList->at(i).show();
+    }
 
     //---Освобождение ресурсов---
 
