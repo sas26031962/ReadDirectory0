@@ -22,4 +22,5 @@ HEADERS += \
     crecord.h
 
 DISTFILES += \
-    Data/FilesConfig.ini
+    Data/FilesConfig.ini \
+    Data/Protocol.txt
