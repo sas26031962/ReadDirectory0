@@ -15,7 +15,7 @@ int main(int argc, char *argv[]) {
     cRecord::RecordList = ptrRecordList.get();
 
     // Путь к каталогу, который нужно прочитать.
-    QString directoryPath = "/home/andy/Рабочий стол/From Smartfone"; // Путь для linux mint
+    QString directoryPath = "/home/andy/From Smartfone"; // Путь для linux mint
     //QString directoryPath = "C:/Work/Pictures"; // Путь для Windows10
 
     //Создаём файл конфигурации
@@ -80,21 +80,22 @@ int main(int argc, char *argv[]) {
         if(image.isNull())
         {
             qDebug() << "Error: could not load image:" << name;
-            //Аварийный выход
-            return 1;
+            cRecord::RecordList->at(i).show();
         }
-        int width = image.width();
-        int height = image.height();
+        else
+        {
+            int width = image.width();
+            int height = image.height();
 
-        settings.beginGroup(groupName);
-        settings.setValue("name", name);
-        settings.setValue("path", PathWithoutName);
-        settings.setValue("size", size);
-        settings.setValue("width", width);
-        settings.setValue("height", height);
-        settings.endGroup();
+            settings.beginGroup(groupName);
+            settings.setValue("name", name);
+            settings.setValue("path", PathWithoutName);
+            settings.setValue("size", size);
+            settings.setValue("width", width);
+            settings.setValue("height", height);
+            settings.endGroup();
+        }
 
-        //cRecord::RecordList->at(i).show();
     }
 
     //---Освобождение ресурсов---
