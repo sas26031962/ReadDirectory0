@@ -15,8 +15,8 @@ int main(int argc, char *argv[]) {
     cRecord::RecordList = ptrRecordList.get();
 
     // Путь к каталогу, который нужно прочитать.
-    //QString directoryPath = "/home/andy/Рабочий стол/From Smartfone"; // Путь для linux mint
-    QString directoryPath = "C:/Work/Pictures"; // Путь для Windows10
+    QString directoryPath = "/home/andy/Рабочий стол/From Smartfone"; // Путь для linux mint
+    //QString directoryPath = "C:/Work/Pictures"; // Путь для Windows10
 
     //Создаём файл конфигурации
     QDir executableDir(QCoreApplication::applicationDirPath());
