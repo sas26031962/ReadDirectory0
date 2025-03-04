@@ -162,28 +162,28 @@ release/main.o: ../main.cpp ../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore
 		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qcontainerfwd.h \
 		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qobject_impl.h \
 		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qeventloop.h \
+		../crecord.h \
+		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/QDebug \
+		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qdebug.h \
+		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qhash.h \
+		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qmap.h \
+		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qtextstream.h \
+		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qiodevice.h \
+		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qlocale.h \
+		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qvariant.h \
+		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qshareddata.h \
+		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qvector.h \
+		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qpoint.h \
+		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qset.h \
+		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qcontiguouscache.h \
 		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/QDir \
 		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qdir.h \
 		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qfileinfo.h \
 		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qfile.h \
 		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qfiledevice.h \
-		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qiodevice.h \
-		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qshareddata.h \
-		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qhash.h \
 		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/QFileInfo \
-		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/QDebug \
-		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qdebug.h \
-		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qmap.h \
-		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qtextstream.h \
-		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qlocale.h \
-		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qvariant.h \
-		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qvector.h \
-		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qpoint.h \
-		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qset.h \
-		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qcontiguouscache.h \
 		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/QDirIterator \
-		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qdiriterator.h \
-		../crecord.h
+		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qdiriterator.h
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o release\main.o ..\main.cpp
 
 release/crecord.o: ../crecord.cpp ../crecord.h \
@@ -253,7 +253,15 @@ release/crecord.o: ../crecord.cpp ../crecord.h \
 		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qvector.h \
 		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qpoint.h \
 		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qset.h \
-		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qcontiguouscache.h
+		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qcontiguouscache.h \
+		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/QDir \
+		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qdir.h \
+		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qfileinfo.h \
+		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qfile.h \
+		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qfiledevice.h \
+		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/QFileInfo \
+		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/QDirIterator \
+		../../../../Qt/Qt5.6.0/5.6/mingw49_32/include/QtCore/qdiriterator.h
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o release\crecord.o ..\crecord.cpp
 
 ####### Install

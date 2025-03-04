@@ -1,4 +1,5 @@
 #include <QCoreApplication>
+#include <QSettings>
 #include <memory>
 #include "crecord.h"
 
@@ -9,69 +10,48 @@ QList<cRecord> * cRecord::RecordList;
 int main(int argc, char *argv[]) {
     QCoreApplication a(argc, argv);
 
-    std::unique_ptr<QList<cRecord> > ptrRecordList = std::make_unique<QList<cRecord> >();
+    std::unique_ptr<QList<cRecord> > ptrRecordList(new QList<cRecord>());
     cRecord::RecordList = ptrRecordList.get();
 
     // Путь к каталогу, который нужно прочитать.
-    QString directoryPath = "/home/andy/Рабочий стол/From Smartfone"; // Путь для linux mint
-    //QString directoryPath = "C:/Work/Pictures"; // Путь для Windows10
-    // QString directoryPath = QCoreApplication::applicationDirPath(); // текущая папка с исполняемым файлом
+    //QString directoryPath = "/home/andy/Рабочий стол/From Smartfone"; // Путь для linux mint
+    QString directoryPath = "C:/Work/Pictures"; // Путь для Windows10
 
+    //Создаём файл конфигурации
+    QDir executableDir(QCoreApplication::applicationDirPath());
+
+    // Создаем путь к INI-файлу в той же директории
+    QString iniFilePath = executableDir.filePath("../Data/FilesConfig.ini");
+
+    // Создаем объект QSettings с указанием формата INI и пути к файлу
+    QSettings settings(iniFilePath, QSettings::IniFormat);
+
+    // Записываем значения
+    settings.beginGroup("MyGroup");
+    settings.setValue("setting1", "value1");
+    settings.setValue("setting2", 123);
+    settings.endGroup();
+
+    // Читаем значения (для проверки)
+    settings.beginGroup("MyGroup");
+    QString value1 = settings.value("setting1", "default_value").toString();
+    int value2 = settings.value("setting2", 0).toInt();
+    settings.endGroup();
+
+    qDebug() << "setting1: " << value1;
+    qDebug() << "setting2: " << value2;
+
+    qDebug() << "INI file created at: " << iniFilePath;
+
+    //---Очистка рабочего списка
     cRecord::RecordList->clear();
 
-    //---Зона процедуры чтения содержимого каталога ---
-/*
-    // Объект QDir для работы с каталогом.
-    QDir directory(directoryPath);
-
-    // Проверка существования  каталога
-    if (!directory.exists())
-    {
-        qDebug() << "Directory not found: " << directoryPath;
-        return 1;
-    }
-
-    // Фильтры для выбора нужных файлов и каталогов.
-    QDir::Filters filters = QDir::Files | QDir::Dirs | QDir::NoDotAndDotDot;
-    directory.setFilter(filters);
-
-    // Порядок сортировки.
-    directory.setSorting(QDir::Name);
-
-    // Список файлов и каталогов.
-    QFileInfoList fileList = directory.entryInfoList();
-
-    // Перебор списка и выведение информации о каждом файле и каталоге.
-    qDebug() << "Content of dir: " << directoryPath;
-
-    cRecord Record;
-
-    //---Запись данных---
-    for (const QFileInfo &fileInfo : fileList)
-    {
-        QString name = fileInfo.fileName();
-        QString path = fileInfo.filePath();
-        size_t size = fileInfo.size();
-        bool isDir = fileInfo.isDir();
-
-        Record.qsName  = name;
-        Record.qsPath = path;
-        Record.iSize  = size;
-        Record.IsDir = isDir;
-
-        //Record.show();
-
-        cRecord::RecordList->append(Record);
-
-    }
-*/
+    //---Чтение содержимого каталога ---
     if(cRecord::readDirectory(directoryPath) > 0)
     {
         //qDebug() << "Directory not found: " << directoryPath;
         return 1;
     }
-
-    //--- Завершение зоны процедуры чтения каталога ---
 
     //---Чтение данных---
 
