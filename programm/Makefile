@@ -184,11 +184,13 @@ Makefile: ../ReadDirectory.pro ../../../Qt/Qt5.6.0/5.6/mingw49_32/mkspecs/win32-
 		../../../Qt/Qt5.6.0/5.6/mingw49_32/mkspecs/features/qt.prf \
 		../../../Qt/Qt5.6.0/5.6/mingw49_32/mkspecs/features/resources.prf \
 		../../../Qt/Qt5.6.0/5.6/mingw49_32/mkspecs/features/moc.prf \
+		../../../Qt/Qt5.6.0/5.6/mingw49_32/mkspecs/features/win32/opengl.prf \
 		../../../Qt/Qt5.6.0/5.6/mingw49_32/mkspecs/features/testcase_targets.prf \
 		../../../Qt/Qt5.6.0/5.6/mingw49_32/mkspecs/features/exceptions.prf \
 		../../../Qt/Qt5.6.0/5.6/mingw49_32/mkspecs/features/yacc.prf \
 		../../../Qt/Qt5.6.0/5.6/mingw49_32/mkspecs/features/lex.prf \
 		../ReadDirectory.pro \
+		../../../Qt/Qt5.6.0/5.6/mingw49_32/lib/Qt5Gui.prl \
 		../../../Qt/Qt5.6.0/5.6/mingw49_32/lib/Qt5Core.prl
 	$(QMAKE) -spec win32-g++ "CONFIG+=debug" "CONFIG+=qml_debug" -o Makefile ..\ReadDirectory.pro
 ../../../Qt/Qt5.6.0/5.6/mingw49_32/mkspecs/features/spec_pre.prf:
@@ -316,11 +318,13 @@ Makefile: ../ReadDirectory.pro ../../../Qt/Qt5.6.0/5.6/mingw49_32/mkspecs/win32-
 ../../../Qt/Qt5.6.0/5.6/mingw49_32/mkspecs/features/qt.prf:
 ../../../Qt/Qt5.6.0/5.6/mingw49_32/mkspecs/features/resources.prf:
 ../../../Qt/Qt5.6.0/5.6/mingw49_32/mkspecs/features/moc.prf:
+../../../Qt/Qt5.6.0/5.6/mingw49_32/mkspecs/features/win32/opengl.prf:
 ../../../Qt/Qt5.6.0/5.6/mingw49_32/mkspecs/features/testcase_targets.prf:
 ../../../Qt/Qt5.6.0/5.6/mingw49_32/mkspecs/features/exceptions.prf:
 ../../../Qt/Qt5.6.0/5.6/mingw49_32/mkspecs/features/yacc.prf:
 ../../../Qt/Qt5.6.0/5.6/mingw49_32/mkspecs/features/lex.prf:
 ../ReadDirectory.pro:
+../../../Qt/Qt5.6.0/5.6/mingw49_32/lib/Qt5Gui.prl:
 ../../../Qt/Qt5.6.0/5.6/mingw49_32/lib/Qt5Core.prl:
 qmake: FORCE
 	@$(QMAKE) -spec win32-g++ "CONFIG+=debug" "CONFIG+=qml_debug" -o Makefile ..\ReadDirectory.pro

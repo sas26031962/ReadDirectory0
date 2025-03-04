@@ -1,5 +1,6 @@
 #include <QCoreApplication>
 #include <QSettings>
+#include <QImage>
 #include <memory>
 #include "crecord.h"
 
@@ -74,10 +75,23 @@ int main(int argc, char *argv[]) {
 
         int size = cRecord::RecordList->at(i).iSize;
 
+        //Фрагмент для обработки файлов изображений
+        QImage image(path);//name
+        if(image.isNull())
+        {
+            qDebug() << "Error: could not load image:" << name;
+            //Аварийный выход
+            return 1;
+        }
+        int width = image.width();
+        int height = image.height();
+
         settings.beginGroup(groupName);
         settings.setValue("name", name);
         settings.setValue("path", PathWithoutName);
         settings.setValue("size", size);
+        settings.setValue("width", width);
+        settings.setValue("height", height);
         settings.endGroup();
 
         //cRecord::RecordList->at(i).show();
