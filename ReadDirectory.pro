@@ -23,4 +23,5 @@ HEADERS += \
 
 DISTFILES += \
     Data/FilesConfig.ini \
-    Data/Protocol.txt
+    Data/Protocol.txt \
+    Data/TODO_List.txt

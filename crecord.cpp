@@ -54,7 +54,7 @@ int cRecord::readDirectory(QString directoryPath)
     QFileInfoList fileList = directory.entryInfoList();
 
     // Перебор списка и выведение информации о каждом файле и каталоге.
-    qDebug() << "Content of dir: " << directoryPath;
+    qDebug() << "Directory: " << directoryPath;
 
     cRecord Record;
 

@@ -15,8 +15,8 @@ int main(int argc, char *argv[]) {
     cRecord::RecordList = ptrRecordList.get();
 
     // Путь к каталогу, который нужно прочитать.
-    QString directoryPath = "/home/andy/From Smartfone"; // Путь для linux mint
-    //QString directoryPath = "C:/Work/Pictures"; // Путь для Windows10
+    //QString directoryPath = "/home/andy/From Smartfone"; // Путь для linux mint
+    QString directoryPath = "C:/Work/Pictures"; // Путь для Windows10
 
     //Создаём файл конфигурации
     QDir executableDir(QCoreApplication::applicationDirPath());
@@ -60,6 +60,14 @@ int main(int argc, char *argv[]) {
 
     //cRecord::showList();//Отображение даных
 
+    int iRecordListLength = cRecord::RecordList->count();
+
+    settings.beginGroup("RecordList");
+    settings.setValue("length", iRecordListLength);
+    settings.endGroup();
+
+    int Id = 0;
+
     //---Добавление данных в файл конфигурации
     for(int i = 0; i < cRecord::RecordList->count(); i++)
      {
@@ -67,6 +75,8 @@ int main(int argc, char *argv[]) {
         int iDotPosition = name.indexOf('.');
         QString groupName = name.mid(0, iDotPosition);
         qDebug() << "groupName=" << groupName;
+
+        Id++;//Счётчик записей
 
         QString path = cRecord::RecordList->at(i).qsPath;
         int iNamePosition = path.indexOf(name);
@@ -88,6 +98,7 @@ int main(int argc, char *argv[]) {
             int height = image.height();
 
             settings.beginGroup(groupName);
+            settings.setValue("Id", Id);
             settings.setValue("name", name);
             settings.setValue("path", PathWithoutName);
             settings.setValue("size", size);
