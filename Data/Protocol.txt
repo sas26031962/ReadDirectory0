@@ -1,92 +1,93 @@
-21:00:34: Starting /home/andy/MyQtProjects/ReadDirectory/programm/ReadDirectory...
+
+17:01:07: Starting /home/andy/MyQtProjects/ReadDirectory/programm/ReadDirectory...
 INI file created at:  "/home/andy/MyQtProjects/ReadDirectory/programm/../Data/FilesConfig.ini"
-Content of dir:  "/home/andy/From Smartfone"
-Content of dir:  "/home/andy/From Smartfone/!!MachinerysAndDevises"
-Content of dir:  "/home/andy/From Smartfone/!!MachinerysAndDevises/Raspberry Pi"
-Content of dir:  "/home/andy/From Smartfone/!!MachinerysAndDevises/Бензопила"
-Content of dir:  "/home/andy/From Smartfone/!2011"
-Content of dir:  "/home/andy/From Smartfone/!2012"
-Content of dir:  "/home/andy/From Smartfone/!2013"
-Content of dir:  "/home/andy/From Smartfone/!2013/2013-03"
-Content of dir:  "/home/andy/From Smartfone/!2013/2013-03/KissMM on Shalyapina-11"
-Content of dir:  "/home/andy/From Smartfone/!2013/2013-04"
-Content of dir:  "/home/andy/From Smartfone/!2013/2013-04/FirstFlowers"
-Content of dir:  "/home/andy/From Smartfone/!2013/2013-05"
-Content of dir:  "/home/andy/From Smartfone/!2013/2013-06"
-Content of dir:  "/home/andy/From Smartfone/!2013/2013-06/ButterfliesAndAntsInTheGarden"
-Content of dir:  "/home/andy/From Smartfone/!2013/2013-06/FlowersInTheGarden"
-Content of dir:  "/home/andy/From Smartfone/!2013/2013-07"
-Content of dir:  "/home/andy/From Smartfone/!2013/2013-07/FlowersInTheGarden"
-Content of dir:  "/home/andy/From Smartfone/!2013/2013-08"
-Content of dir:  "/home/andy/From Smartfone/!2013/2013-08/AlexeyKornev9Days"
-Content of dir:  "/home/andy/From Smartfone/!2013/2013-08/BurningTheGarbageInTheGarden"
-Content of dir:  "/home/andy/From Smartfone/!2013/2013-08/HailInTheGarden"
-Content of dir:  "/home/andy/From Smartfone/!2013/2013-09"
-Content of dir:  "/home/andy/From Smartfone/!2013/2013-10"
-Content of dir:  "/home/andy/From Smartfone/!2013/2013-11"
-Content of dir:  "/home/andy/From Smartfone/!2013/2013-12"
-Content of dir:  "/home/andy/From Smartfone/!2014"
-Content of dir:  "/home/andy/From Smartfone/!2014/2014-01"
-Content of dir:  "/home/andy/From Smartfone/!2014/2014-02"
-Content of dir:  "/home/andy/From Smartfone/!2014/2014-03"
-Content of dir:  "/home/andy/From Smartfone/!2014/2014-04"
-Content of dir:  "/home/andy/From Smartfone/!2014/2014-05"
-Content of dir:  "/home/andy/From Smartfone/!2014/2014-06"
-Content of dir:  "/home/andy/From Smartfone/!2014/2014-07"
-Content of dir:  "/home/andy/From Smartfone/!2014/2014-08"
-Content of dir:  "/home/andy/From Smartfone/!2014/2014-09"
-Content of dir:  "/home/andy/From Smartfone/!2014/2014-10"
-Content of dir:  "/home/andy/From Smartfone/!2014/2014-12"
-Content of dir:  "/home/andy/From Smartfone/!2015"
-Content of dir:  "/home/andy/From Smartfone/!2015/2015-05"
-Content of dir:  "/home/andy/From Smartfone/!2015/2015-07"
-Content of dir:  "/home/andy/From Smartfone/!2015/2015-08"
-Content of dir:  "/home/andy/From Smartfone/!2015/2015-09"
-Content of dir:  "/home/andy/From Smartfone/!2015/2015-11"
-Content of dir:  "/home/andy/From Smartfone/!2016"
-Content of dir:  "/home/andy/From Smartfone/!2017"
-Content of dir:  "/home/andy/From Smartfone/!2018"
-Content of dir:  "/home/andy/From Smartfone/!2018/2018-10"
-Content of dir:  "/home/andy/From Smartfone/!2019"
-Content of dir:  "/home/andy/From Smartfone/!2019/2019-01"
-Content of dir:  "/home/andy/From Smartfone/!2019/2019-09"
-Content of dir:  "/home/andy/From Smartfone/!2020"
-Content of dir:  "/home/andy/From Smartfone/!2021"
-Content of dir:  "/home/andy/From Smartfone/!2022"
-Content of dir:  "/home/andy/From Smartfone/!2022/2022-09"
-Content of dir:  "/home/andy/From Smartfone/!2022/2022-10"
-Content of dir:  "/home/andy/From Smartfone/!2022/2022-11"
-Content of dir:  "/home/andy/From Smartfone/!2022/2022-12"
-Content of dir:  "/home/andy/From Smartfone/!2023"
-Content of dir:  "/home/andy/From Smartfone/!2023/2023-01"
-Content of dir:  "/home/andy/From Smartfone/!2023/2023-02"
-Content of dir:  "/home/andy/From Smartfone/!2023/2023-03"
-Content of dir:  "/home/andy/From Smartfone/!2023/2023-04"
-Content of dir:  "/home/andy/From Smartfone/!2023/2023-05"
-Content of dir:  "/home/andy/From Smartfone/!2023/2023-06"
-Content of dir:  "/home/andy/From Smartfone/!2023/2023-07"
-Content of dir:  "/home/andy/From Smartfone/!2023/2023-08"
-Content of dir:  "/home/andy/From Smartfone/!2023/2023-09"
-Content of dir:  "/home/andy/From Smartfone/!2023/2023-10"
-Content of dir:  "/home/andy/From Smartfone/!2023/2023-11"
-Content of dir:  "/home/andy/From Smartfone/!2023/2023-12"
-Content of dir:  "/home/andy/From Smartfone/!2024"
-Content of dir:  "/home/andy/From Smartfone/!2024/2024-01"
-Content of dir:  "/home/andy/From Smartfone/!2024/2024-02"
-Content of dir:  "/home/andy/From Smartfone/!2024/2024-03"
-Content of dir:  "/home/andy/From Smartfone/!2024/2024-04"
-Content of dir:  "/home/andy/From Smartfone/!2024/2024-05"
-Content of dir:  "/home/andy/From Smartfone/!2024/2024-06"
-Content of dir:  "/home/andy/From Smartfone/!2024/2024-07"
-Content of dir:  "/home/andy/From Smartfone/!2024/2024-08"
-Content of dir:  "/home/andy/From Smartfone/!2024/2024-09"
-Content of dir:  "/home/andy/From Smartfone/!2024/2024-10"
-Content of dir:  "/home/andy/From Smartfone/!2024/2024-11"
-Content of dir:  "/home/andy/From Smartfone/!Licey-82"
-Content of dir:  "/home/andy/From Smartfone/!Puiples"
-Content of dir:  "/home/andy/From Smartfone/!Ritual"
-Content of dir:  "/home/andy/From Smartfone/!WORK"
-Content of dir:  "/home/andy/From Smartfone/Sveta competition 26042021"
+Directory:  "/home/andy/From Smartfone"
+Directory:  "/home/andy/From Smartfone/!!MachinerysAndDevises"
+Directory:  "/home/andy/From Smartfone/!!MachinerysAndDevises/Raspberry Pi"
+Directory:  "/home/andy/From Smartfone/!!MachinerysAndDevises/Бензопила"
+Directory:  "/home/andy/From Smartfone/!2011"
+Directory:  "/home/andy/From Smartfone/!2012"
+Directory:  "/home/andy/From Smartfone/!2013"
+Directory:  "/home/andy/From Smartfone/!2013/2013-03"
+Directory:  "/home/andy/From Smartfone/!2013/2013-03/KissMM on Shalyapina-11"
+Directory:  "/home/andy/From Smartfone/!2013/2013-04"
+Directory:  "/home/andy/From Smartfone/!2013/2013-04/FirstFlowers"
+Directory:  "/home/andy/From Smartfone/!2013/2013-05"
+Directory:  "/home/andy/From Smartfone/!2013/2013-06"
+Directory:  "/home/andy/From Smartfone/!2013/2013-06/ButterfliesAndAntsInTheGarden"
+Directory:  "/home/andy/From Smartfone/!2013/2013-06/FlowersInTheGarden"
+Directory:  "/home/andy/From Smartfone/!2013/2013-07"
+Directory:  "/home/andy/From Smartfone/!2013/2013-07/FlowersInTheGarden"
+Directory:  "/home/andy/From Smartfone/!2013/2013-08"
+Directory:  "/home/andy/From Smartfone/!2013/2013-08/AlexeyKornev9Days"
+Directory:  "/home/andy/From Smartfone/!2013/2013-08/BurningTheGarbageInTheGarden"
+Directory:  "/home/andy/From Smartfone/!2013/2013-08/HailInTheGarden"
+Directory:  "/home/andy/From Smartfone/!2013/2013-09"
+Directory:  "/home/andy/From Smartfone/!2013/2013-10"
+Directory:  "/home/andy/From Smartfone/!2013/2013-11"
+Directory:  "/home/andy/From Smartfone/!2013/2013-12"
+Directory:  "/home/andy/From Smartfone/!2014"
+Directory:  "/home/andy/From Smartfone/!2014/2014-01"
+Directory:  "/home/andy/From Smartfone/!2014/2014-02"
+Directory:  "/home/andy/From Smartfone/!2014/2014-03"
+Directory:  "/home/andy/From Smartfone/!2014/2014-04"
+Directory:  "/home/andy/From Smartfone/!2014/2014-05"
+Directory:  "/home/andy/From Smartfone/!2014/2014-06"
+Directory:  "/home/andy/From Smartfone/!2014/2014-07"
+Directory:  "/home/andy/From Smartfone/!2014/2014-08"
+Directory:  "/home/andy/From Smartfone/!2014/2014-09"
+Directory:  "/home/andy/From Smartfone/!2014/2014-10"
+Directory:  "/home/andy/From Smartfone/!2014/2014-12"
+Directory:  "/home/andy/From Smartfone/!2015"
+Directory:  "/home/andy/From Smartfone/!2015/2015-05"
+Directory:  "/home/andy/From Smartfone/!2015/2015-07"
+Directory:  "/home/andy/From Smartfone/!2015/2015-08"
+Directory:  "/home/andy/From Smartfone/!2015/2015-09"
+Directory:  "/home/andy/From Smartfone/!2015/2015-11"
+Directory:  "/home/andy/From Smartfone/!2016"
+Directory:  "/home/andy/From Smartfone/!2017"
+Directory:  "/home/andy/From Smartfone/!2018"
+Directory:  "/home/andy/From Smartfone/!2018/2018-10"
+Directory:  "/home/andy/From Smartfone/!2019"
+Directory:  "/home/andy/From Smartfone/!2019/2019-01"
+Directory:  "/home/andy/From Smartfone/!2019/2019-09"
+Directory:  "/home/andy/From Smartfone/!2020"
+Directory:  "/home/andy/From Smartfone/!2021"
+Directory:  "/home/andy/From Smartfone/!2022"
+Directory:  "/home/andy/From Smartfone/!2022/2022-09"
+Directory:  "/home/andy/From Smartfone/!2022/2022-10"
+Directory:  "/home/andy/From Smartfone/!2022/2022-11"
+Directory:  "/home/andy/From Smartfone/!2022/2022-12"
+Directory:  "/home/andy/From Smartfone/!2023"
+Directory:  "/home/andy/From Smartfone/!2023/2023-01"
+Directory:  "/home/andy/From Smartfone/!2023/2023-02"
+Directory:  "/home/andy/From Smartfone/!2023/2023-03"
+Directory:  "/home/andy/From Smartfone/!2023/2023-04"
+Directory:  "/home/andy/From Smartfone/!2023/2023-05"
+Directory:  "/home/andy/From Smartfone/!2023/2023-06"
+Directory:  "/home/andy/From Smartfone/!2023/2023-07"
+Directory:  "/home/andy/From Smartfone/!2023/2023-08"
+Directory:  "/home/andy/From Smartfone/!2023/2023-09"
+Directory:  "/home/andy/From Smartfone/!2023/2023-10"
+Directory:  "/home/andy/From Smartfone/!2023/2023-11"
+Directory:  "/home/andy/From Smartfone/!2023/2023-12"
+Directory:  "/home/andy/From Smartfone/!2024"
+Directory:  "/home/andy/From Smartfone/!2024/2024-01"
+Directory:  "/home/andy/From Smartfone/!2024/2024-02"
+Directory:  "/home/andy/From Smartfone/!2024/2024-03"
+Directory:  "/home/andy/From Smartfone/!2024/2024-04"
+Directory:  "/home/andy/From Smartfone/!2024/2024-05"
+Directory:  "/home/andy/From Smartfone/!2024/2024-06"
+Directory:  "/home/andy/From Smartfone/!2024/2024-07"
+Directory:  "/home/andy/From Smartfone/!2024/2024-08"
+Directory:  "/home/andy/From Smartfone/!2024/2024-09"
+Directory:  "/home/andy/From Smartfone/!2024/2024-10"
+Directory:  "/home/andy/From Smartfone/!2024/2024-11"
+Directory:  "/home/andy/From Smartfone/!Licey-82"
+Directory:  "/home/andy/From Smartfone/!Puiples"
+Directory:  "/home/andy/From Smartfone/!Ritual"
+Directory:  "/home/andy/From Smartfone/!WORK"
+Directory:  "/home/andy/From Smartfone/Sveta competition 26042021"
 ====================
 groupName= "IMG_20160729_163648"
 Path= "/home/andy/From Smartfone/!!MachinerysAndDevises/Raspberry Pi"
@@ -109,38 +110,18 @@ Path= "/home/andy/From Smartfone/!2012"
 groupName= "20130324_200520"
 Path= "/home/andy/From Smartfone/!2013/2013-03"
 Error: could not load image: "20130324_200520.mp4"
-Name:  "20130324_200520.mp4"
-Path:  "/home/andy/From Smartfone/!2013/2013-03/20130324_200520.mp4"
-Size:  60629485
---------------------
 groupName= "2013-03-04 19-45-02"
 Path= "/home/andy/From Smartfone/!2013/2013-03/KissMM on Shalyapina-11"
 Error: could not load image: "2013-03-04 19-45-02.MP4"
-Name:  "2013-03-04 19-45-02.MP4"
-Path:  "/home/andy/From Smartfone/!2013/2013-03/KissMM on Shalyapina-11/2013-03-04 19-45-02.MP4"
-Size:  104073775
---------------------
 groupName= "2013-03-05 20-39-19"
 Path= "/home/andy/From Smartfone/!2013/2013-03/KissMM on Shalyapina-11"
 Error: could not load image: "2013-03-05 20-39-19.MP4"
-Name:  "2013-03-05 20-39-19.MP4"
-Path:  "/home/andy/From Smartfone/!2013/2013-03/KissMM on Shalyapina-11/2013-03-05 20-39-19.MP4"
-Size:  86040060
---------------------
 groupName= "2013-03-23 21-24-57"
 Path= "/home/andy/From Smartfone/!2013/2013-03/KissMM on Shalyapina-11"
 Error: could not load image: "2013-03-23 21-24-57.MP4"
-Name:  "2013-03-23 21-24-57.MP4"
-Path:  "/home/andy/From Smartfone/!2013/2013-03/KissMM on Shalyapina-11/2013-03-23 21-24-57.MP4"
-Size:  49884271
---------------------
 groupName= "2013-03-23 21-25-47"
 Path= "/home/andy/From Smartfone/!2013/2013-03/KissMM on Shalyapina-11"
 Error: could not load image: "2013-03-23 21-25-47.MP4"
-Name:  "2013-03-23 21-25-47.MP4"
-Path:  "/home/andy/From Smartfone/!2013/2013-03/KissMM on Shalyapina-11/2013-03-23 21-25-47.MP4"
-Size:  9802736
---------------------
 groupName= "20130428_162202"
 Path= "/home/andy/From Smartfone/!2013/2013-04"
 groupName= "20130428_162214"
@@ -310,10 +291,6 @@ Path= "/home/andy/From Smartfone/!2013/2013-08"
 groupName= "2013-08-12 23-53-57"
 Path= "/home/andy/From Smartfone/!2013/2013-08"
 Error: could not load image: "2013-08-12 23-53-57. Сухая гроза в саду.MP4"
-Name:  "2013-08-12 23-53-57. Сухая гроза в саду.MP4"
-Path:  "/home/andy/From Smartfone/!2013/2013-08/2013-08-12 23-53-57. Сухая гроза в саду.MP4"
-Size:  19941814
---------------------
 groupName= "2013-08-16 10-39-09"
 Path= "/home/andy/From Smartfone/!2013/2013-08/AlexeyKornev9Days"
 groupName= "2013-08-16 17-39-14"
@@ -323,17 +300,9 @@ Path= "/home/andy/From Smartfone/!2013/2013-08/AlexeyKornev9Days"
 groupName= "2013-08-18 21-14-26"
 Path= "/home/andy/From Smartfone/!2013/2013-08/BurningTheGarbageInTheGarden"
 Error: could not load image: "2013-08-18 21-14-26.MP4"
-Name:  "2013-08-18 21-14-26.MP4"
-Path:  "/home/andy/From Smartfone/!2013/2013-08/BurningTheGarbageInTheGarden/2013-08-18 21-14-26.MP4"
-Size:  42335234
---------------------
 groupName= "2013-08-18 21-15-00"
 Path= "/home/andy/From Smartfone/!2013/2013-08/BurningTheGarbageInTheGarden"
 Error: could not load image: "2013-08-18 21-15-00.MP4"
-Name:  "2013-08-18 21-15-00.MP4"
-Path:  "/home/andy/From Smartfone/!2013/2013-08/BurningTheGarbageInTheGarden/2013-08-18 21-15-00.MP4"
-Size:  27757277
---------------------
 groupName= "2013-08-12 16-58-19"
 Path= "/home/andy/From Smartfone/!2013/2013-08/HailInTheGarden"
 groupName= "2013-08-12 16-58-33"
@@ -413,24 +382,12 @@ Path= "/home/andy/From Smartfone/!2014/2014-01"
 groupName= "2014-01-07 14-32-12"
 Path= "/home/andy/From Smartfone/!2014/2014-01"
 Error: could not load image: "2014-01-07 14-32-12.MP4"
-Name:  "2014-01-07 14-32-12.MP4"
-Path:  "/home/andy/From Smartfone/!2014/2014-01/2014-01-07 14-32-12.MP4"
-Size:  49822534
---------------------
 groupName= "2014-01-07 14-33-26"
 Path= "/home/andy/From Smartfone/!2014/2014-01"
 Error: could not load image: "2014-01-07 14-33-26.MP4"
-Name:  "2014-01-07 14-33-26.MP4"
-Path:  "/home/andy/From Smartfone/!2014/2014-01/2014-01-07 14-33-26.MP4"
-Size:  113937842
---------------------
 groupName= "2014-01-07 14-34-41"
 Path= "/home/andy/From Smartfone/!2014/2014-01"
 Error: could not load image: "2014-01-07 14-34-41.MP4"
-Name:  "2014-01-07 14-34-41.MP4"
-Path:  "/home/andy/From Smartfone/!2014/2014-01/2014-01-07 14-34-41.MP4"
-Size:  3126506
---------------------
 groupName= "2014-01-07 20-14-04"
 Path= "/home/andy/From Smartfone/!2014/2014-01"
 groupName= "2014-01-07 20-14-06"
@@ -450,24 +407,12 @@ Path= "/home/andy/From Smartfone/!2014/2014-01"
 groupName= "20140107_143212"
 Path= "/home/andy/From Smartfone/!2014/2014-01"
 Error: could not load image: "20140107_143212.mp4"
-Name:  "20140107_143212.mp4"
-Path:  "/home/andy/From Smartfone/!2014/2014-01/20140107_143212.mp4"
-Size:  49822534
---------------------
 groupName= "20140107_143326"
 Path= "/home/andy/From Smartfone/!2014/2014-01"
 Error: could not load image: "20140107_143326.mp4"
-Name:  "20140107_143326.mp4"
-Path:  "/home/andy/From Smartfone/!2014/2014-01/20140107_143326.mp4"
-Size:  113937842
---------------------
 groupName= "20140107_143441"
 Path= "/home/andy/From Smartfone/!2014/2014-01"
 Error: could not load image: "20140107_143441.mp4"
-Name:  "20140107_143441.mp4"
-Path:  "/home/andy/From Smartfone/!2014/2014-01/20140107_143441.mp4"
-Size:  3126506
---------------------
 groupName= "20140107_201404"
 Path= "/home/andy/From Smartfone/!2014/2014-01"
 groupName= "20140107_201406"
@@ -839,17 +784,9 @@ Path= "/home/andy/From Smartfone/!2014/2014-05"
 groupName= "2014-05-02 17-08-24"
 Path= "/home/andy/From Smartfone/!2014/2014-05"
 Error: could not load image: "2014-05-02 17-08-24.MP4"
-Name:  "2014-05-02 17-08-24.MP4"
-Path:  "/home/andy/From Smartfone/!2014/2014-05/2014-05-02 17-08-24.MP4"
-Size:  2981519
---------------------
 groupName= "2014-05-02 17-08-42"
 Path= "/home/andy/From Smartfone/!2014/2014-05"
 Error: could not load image: "2014-05-02 17-08-42.MP4"
-Name:  "2014-05-02 17-08-42.MP4"
-Path:  "/home/andy/From Smartfone/!2014/2014-05/2014-05-02 17-08-42.MP4"
-Size:  235402279
---------------------
 groupName= "2014-05-02 18-05-26"
 Path= "/home/andy/From Smartfone/!2014/2014-05"
 groupName= "2014-05-02 18-05-53"
@@ -1051,17 +988,9 @@ Path= "/home/andy/From Smartfone/!2014/2014-05"
 groupName= "20140502_170824"
 Path= "/home/andy/From Smartfone/!2014/2014-05"
 Error: could not load image: "20140502_170824.mp4"
-Name:  "20140502_170824.mp4"
-Path:  "/home/andy/From Smartfone/!2014/2014-05/20140502_170824.mp4"
-Size:  2981519
---------------------
 groupName= "20140502_170842"
 Path= "/home/andy/From Smartfone/!2014/2014-05"
 Error: could not load image: "20140502_170842.mp4"
-Name:  "20140502_170842.mp4"
-Path:  "/home/andy/From Smartfone/!2014/2014-05/20140502_170842.mp4"
-Size:  235402279
---------------------
 groupName= "20140502_180526"
 Path= "/home/andy/From Smartfone/!2014/2014-05"
 groupName= "20140502_180553"
@@ -1563,38 +1492,18 @@ Path= "/home/andy/From Smartfone/!2014/2014-09"
 groupName= "2014-09-08 20-59-45"
 Path= "/home/andy/From Smartfone/!2014/2014-09"
 Error: could not load image: "2014-09-08 20-59-45.MP4"
-Name:  "2014-09-08 20-59-45.MP4"
-Path:  "/home/andy/From Smartfone/!2014/2014-09/2014-09-08 20-59-45.MP4"
-Size:  53653438
---------------------
 groupName= "2014-09-08 21-00-22"
 Path= "/home/andy/From Smartfone/!2014/2014-09"
 Error: could not load image: "2014-09-08 21-00-22.MP4"
-Name:  "2014-09-08 21-00-22.MP4"
-Path:  "/home/andy/From Smartfone/!2014/2014-09/2014-09-08 21-00-22.MP4"
-Size:  145195469
---------------------
 groupName= "2014-09-08 21-02-15"
 Path= "/home/andy/From Smartfone/!2014/2014-09"
 Error: could not load image: "2014-09-08 21-02-15.MP4"
-Name:  "2014-09-08 21-02-15.MP4"
-Path:  "/home/andy/From Smartfone/!2014/2014-09/2014-09-08 21-02-15.MP4"
-Size:  23481605
---------------------
 groupName= "2014-09-08 21-05-21"
 Path= "/home/andy/From Smartfone/!2014/2014-09"
 Error: could not load image: "2014-09-08 21-05-21.MP4"
-Name:  "2014-09-08 21-05-21.MP4"
-Path:  "/home/andy/From Smartfone/!2014/2014-09/2014-09-08 21-05-21.MP4"
-Size:  59873814
---------------------
 groupName= "2014-09-08 21-06-25"
 Path= "/home/andy/From Smartfone/!2014/2014-09"
 Error: could not load image: "2014-09-08 21-06-25.MP4"
-Name:  "2014-09-08 21-06-25.MP4"
-Path:  "/home/andy/From Smartfone/!2014/2014-09/2014-09-08 21-06-25.MP4"
-Size:  43080348
---------------------
 groupName= "2014-09-13 13-57-42"
 Path= "/home/andy/From Smartfone/!2014/2014-09"
 groupName= "2014-09-13 13-58-02"
@@ -1638,38 +1547,18 @@ Path= "/home/andy/From Smartfone/!2014/2014-09"
 groupName= "20140908_205945"
 Path= "/home/andy/From Smartfone/!2014/2014-09"
 Error: could not load image: "20140908_205945.mp4"
-Name:  "20140908_205945.mp4"
-Path:  "/home/andy/From Smartfone/!2014/2014-09/20140908_205945.mp4"
-Size:  53653438
---------------------
 groupName= "20140908_210022"
 Path= "/home/andy/From Smartfone/!2014/2014-09"
 Error: could not load image: "20140908_210022.mp4"
-Name:  "20140908_210022.mp4"
-Path:  "/home/andy/From Smartfone/!2014/2014-09/20140908_210022.mp4"
-Size:  145195469
---------------------
 groupName= "20140908_210215"
 Path= "/home/andy/From Smartfone/!2014/2014-09"
 Error: could not load image: "20140908_210215.mp4"
-Name:  "20140908_210215.mp4"
-Path:  "/home/andy/From Smartfone/!2014/2014-09/20140908_210215.mp4"
-Size:  23481605
---------------------
 groupName= "20140908_210521"
 Path= "/home/andy/From Smartfone/!2014/2014-09"
 Error: could not load image: "20140908_210521.mp4"
-Name:  "20140908_210521.mp4"
-Path:  "/home/andy/From Smartfone/!2014/2014-09/20140908_210521.mp4"
-Size:  59873814
---------------------
 groupName= "20140908_210625"
 Path= "/home/andy/From Smartfone/!2014/2014-09"
 Error: could not load image: "20140908_210625.mp4"
-Name:  "20140908_210625.mp4"
-Path:  "/home/andy/From Smartfone/!2014/2014-09/20140908_210625.mp4"
-Size:  43080348
---------------------
 groupName= "20140913_135742"
 Path= "/home/andy/From Smartfone/!2014/2014-09"
 groupName= "20140913_135802"
@@ -1805,10 +1694,6 @@ Path= "/home/andy/From Smartfone/!2015/2015-05"
 groupName= "20150518_221136"
 Path= "/home/andy/From Smartfone/!2015/2015-05"
 Error: could not load image: "20150518_221136.mp4"
-Name:  "20150518_221136.mp4"
-Path:  "/home/andy/From Smartfone/!2015/2015-05/20150518_221136.mp4"
-Size:  104248854
---------------------
 groupName= "20150530_213042"
 Path= "/home/andy/From Smartfone/!2015/2015-05"
 groupName= "2015-05-09 12-47-44"
@@ -1838,17 +1723,9 @@ Path= "/home/andy/From Smartfone/!2015"
 groupName= "2015-05-18 22-11-36"
 Path= "/home/andy/From Smartfone/!2015"
 Error: could not load image: "2015-05-18 22-11-36.MP4"
-Name:  "2015-05-18 22-11-36.MP4"
-Path:  "/home/andy/From Smartfone/!2015/2015-05-18 22-11-36.MP4"
-Size:  104248854
---------------------
 groupName= "2015-05-18 22-12-46"
 Path= "/home/andy/From Smartfone/!2015"
 Error: could not load image: "2015-05-18 22-12-46.MP4"
-Name:  "2015-05-18 22-12-46.MP4"
-Path:  "/home/andy/From Smartfone/!2015/2015-05-18 22-12-46.MP4"
-Size:  8101511
---------------------
 groupName= "2015-05-30 21-30-39"
 Path= "/home/andy/From Smartfone/!2015"
 groupName= "2015-05-30 21-30-42"
@@ -2214,10 +2091,6 @@ Path= "/home/andy/From Smartfone/!2015"
 groupName= "20150518_221136"
 Path= "/home/andy/From Smartfone/!2015"
 Error: could not load image: "20150518_221136.mp4"
-Name:  "20150518_221136.mp4"
-Path:  "/home/andy/From Smartfone/!2015/20150518_221136.mp4"
-Size:  104248854
---------------------
 groupName= "20150530_213042"
 Path= "/home/andy/From Smartfone/!2015"
 groupName= "20150711_194502"
@@ -2691,31 +2564,15 @@ Path= "/home/andy/From Smartfone/!2016"
 groupName= "VID_20160309_195442"
 Path= "/home/andy/From Smartfone/!2016"
 Error: could not load image: "VID_20160309_195442.3gp"
-Name:  "VID_20160309_195442.3gp"
-Path:  "/home/andy/From Smartfone/!2016/VID_20160309_195442.3gp"
-Size:  20219009
---------------------
 groupName= "VID_20160319_170412"
 Path= "/home/andy/From Smartfone/!2016"
 Error: could not load image: "VID_20160319_170412.3gp"
-Name:  "VID_20160319_170412.3gp"
-Path:  "/home/andy/From Smartfone/!2016/VID_20160319_170412.3gp"
-Size:  14946923
---------------------
 groupName= "VID_20160703_162146"
 Path= "/home/andy/From Smartfone/!2016"
 Error: could not load image: "VID_20160703_162146.3gp"
-Name:  "VID_20160703_162146.3gp"
-Path:  "/home/andy/From Smartfone/!2016/VID_20160703_162146.3gp"
-Size:  16401911
---------------------
 groupName= "VID_20161104_173944"
 Path= "/home/andy/From Smartfone/!2016"
 Error: could not load image: "VID_20161104_173944.3gp"
-Name:  "VID_20161104_173944.3gp"
-Path:  "/home/andy/From Smartfone/!2016/VID_20161104_173944.3gp"
-Size:  946682
---------------------
 groupName= "IMG_20170115_115411"
 Path= "/home/andy/From Smartfone/!2017"
 groupName= "IMG_20170129_112926"
@@ -2831,24 +2688,12 @@ Path= "/home/andy/From Smartfone/!2017"
 groupName= "VID_20170326_141240"
 Path= "/home/andy/From Smartfone/!2017"
 Error: could not load image: "VID_20170326_141240.3gp"
-Name:  "VID_20170326_141240.3gp"
-Path:  "/home/andy/From Smartfone/!2017/VID_20170326_141240.3gp"
-Size:  15368620
---------------------
 groupName= "VID_20170326_141859"
 Path= "/home/andy/From Smartfone/!2017"
 Error: could not load image: "VID_20170326_141859.3gp"
-Name:  "VID_20170326_141859.3gp"
-Path:  "/home/andy/From Smartfone/!2017/VID_20170326_141859.3gp"
-Size:  8410304
---------------------
 groupName= "VID_20170625_191559"
 Path= "/home/andy/From Smartfone/!2017"
 Error: could not load image: "VID_20170625_191559.3gp"
-Name:  "VID_20170625_191559.3gp"
-Path:  "/home/andy/From Smartfone/!2017/VID_20170625_191559.3gp"
-Size:  16586047
---------------------
 groupName= "2018-10-15 04-25-34"
 Path= "/home/andy/From Smartfone/!2018/2018-10"
 groupName= "2018-10-16 03-23-14_1539649486"
@@ -2860,10 +2705,6 @@ Path= "/home/andy/From Smartfone/!2018/2018-10"
 groupName= "2019-01-03 13-53-02"
 Path= "/home/andy/From Smartfone/!2019/2019-01"
 Error: could not load image: "2019-01-03 13-53-02.MP4"
-Name:  "2019-01-03 13-53-02.MP4"
-Path:  "/home/andy/From Smartfone/!2019/2019-01/2019-01-03 13-53-02.MP4"
-Size:  117830569
---------------------
 groupName= "2019-09-26 21-24-19"
 Path= "/home/andy/From Smartfone/!2019/2019-09"
 groupName= "IMG_20220907_142821"
@@ -2971,17 +2812,9 @@ Path= "/home/andy/From Smartfone/!2022/2022-09"
 groupName= "VID_20220908_182302"
 Path= "/home/andy/From Smartfone/!2022/2022-09"
 Error: could not load image: "VID_20220908_182302.mp4"
-Name:  "VID_20220908_182302.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-09/VID_20220908_182302.mp4"
-Size:  11747479
---------------------
 groupName= "VID_20220930_213142"
 Path= "/home/andy/From Smartfone/!2022/2022-09"
 Error: could not load image: "VID_20220930_213142.mp4"
-Name:  "VID_20220930_213142.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-09/VID_20220930_213142.mp4"
-Size:  446933310
---------------------
 groupName= "IMG_20221001_113640"
 Path= "/home/andy/From Smartfone/!2022/2022-10"
 groupName= "IMG_20221001_113644"
@@ -3187,171 +3020,75 @@ Path= "/home/andy/From Smartfone/!2022/2022-10"
 groupName= "VID_20221001_110915"
 Path= "/home/andy/From Smartfone/!2022/2022-10"
 Error: could not load image: "VID_20221001_110915.mp4"
-Name:  "VID_20221001_110915.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-10/VID_20221001_110915.mp4"
-Size:  35058174
---------------------
 groupName= "VID_20221001_111318"
 Path= "/home/andy/From Smartfone/!2022/2022-10"
 Error: could not load image: "VID_20221001_111318.mp4"
-Name:  "VID_20221001_111318.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-10/VID_20221001_111318.mp4"
-Size:  43503788
---------------------
 groupName= "VID_20221001_114208(0)"
 Path= "/home/andy/From Smartfone/!2022/2022-10"
 Error: could not load image: "VID_20221001_114208(0).mp4"
-Name:  "VID_20221001_114208(0).mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-10/VID_20221001_114208(0).mp4"
-Size:  2541095
---------------------
 groupName= "VID_20221001_114208"
 Path= "/home/andy/From Smartfone/!2022/2022-10"
 Error: could not load image: "VID_20221001_114208.mp4"
-Name:  "VID_20221001_114208.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-10/VID_20221001_114208.mp4"
-Size:  8451907
---------------------
 groupName= "VID_20221001_114213"
 Path= "/home/andy/From Smartfone/!2022/2022-10"
 Error: could not load image: "VID_20221001_114213.mp4"
-Name:  "VID_20221001_114213.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-10/VID_20221001_114213.mp4"
-Size:  16984603
---------------------
 groupName= "VID_20221001_114915"
 Path= "/home/andy/From Smartfone/!2022/2022-10"
 Error: could not load image: "VID_20221001_114915.mp4"
-Name:  "VID_20221001_114915.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-10/VID_20221001_114915.mp4"
-Size:  13154272
---------------------
 groupName= "VID_20221001_114940"
 Path= "/home/andy/From Smartfone/!2022/2022-10"
 Error: could not load image: "VID_20221001_114940.mp4"
-Name:  "VID_20221001_114940.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-10/VID_20221001_114940.mp4"
-Size:  17035852
---------------------
 groupName= "VID_20221001_114952"
 Path= "/home/andy/From Smartfone/!2022/2022-10"
 Error: could not load image: "VID_20221001_114952.mp4"
-Name:  "VID_20221001_114952.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-10/VID_20221001_114952.mp4"
-Size:  10273893
---------------------
 groupName= "VID_20221001_115008"
 Path= "/home/andy/From Smartfone/!2022/2022-10"
 Error: could not load image: "VID_20221001_115008.mp4"
-Name:  "VID_20221001_115008.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-10/VID_20221001_115008.mp4"
-Size:  10837843
---------------------
 groupName= "VID_20221001_115015"
 Path= "/home/andy/From Smartfone/!2022/2022-10"
 Error: could not load image: "VID_20221001_115015.mp4"
-Name:  "VID_20221001_115015.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-10/VID_20221001_115015.mp4"
-Size:  10210397
---------------------
 groupName= "VID_20221001_115221"
 Path= "/home/andy/From Smartfone/!2022/2022-10"
 Error: could not load image: "VID_20221001_115221.mp4"
-Name:  "VID_20221001_115221.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-10/VID_20221001_115221.mp4"
-Size:  15711508
---------------------
 groupName= "VID_20221001_115557"
 Path= "/home/andy/From Smartfone/!2022/2022-10"
 Error: could not load image: "VID_20221001_115557.mp4"
-Name:  "VID_20221001_115557.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-10/VID_20221001_115557.mp4"
-Size:  20630403
---------------------
 groupName= "VID_20221001_143055"
 Path= "/home/andy/From Smartfone/!2022/2022-10"
 Error: could not load image: "VID_20221001_143055.mp4"
-Name:  "VID_20221001_143055.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-10/VID_20221001_143055.mp4"
-Size:  3820040
---------------------
 groupName= "VID_20221001_143144"
 Path= "/home/andy/From Smartfone/!2022/2022-10"
 Error: could not load image: "VID_20221001_143144.mp4"
-Name:  "VID_20221001_143144.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-10/VID_20221001_143144.mp4"
-Size:  3885176
---------------------
 groupName= "VID_20221001_143554"
 Path= "/home/andy/From Smartfone/!2022/2022-10"
 Error: could not load image: "VID_20221001_143554.mp4"
-Name:  "VID_20221001_143554.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-10/VID_20221001_143554.mp4"
-Size:  5897742
---------------------
 groupName= "VID_20221001_144133"
 Path= "/home/andy/From Smartfone/!2022/2022-10"
 Error: could not load image: "VID_20221001_144133.mp4"
-Name:  "VID_20221001_144133.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-10/VID_20221001_144133.mp4"
-Size:  5817210
---------------------
 groupName= "VID_20221001_144344(0)"
 Path= "/home/andy/From Smartfone/!2022/2022-10"
 Error: could not load image: "VID_20221001_144344(0).mp4"
-Name:  "VID_20221001_144344(0).mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-10/VID_20221001_144344(0).mp4"
-Size:  2065452
---------------------
 groupName= "VID_20221001_144344"
 Path= "/home/andy/From Smartfone/!2022/2022-10"
 Error: could not load image: "VID_20221001_144344.mp4"
-Name:  "VID_20221001_144344.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-10/VID_20221001_144344.mp4"
-Size:  6678504
---------------------
 groupName= "VID_20221001_183512"
 Path= "/home/andy/From Smartfone/!2022/2022-10"
 Error: could not load image: "VID_20221001_183512.mp4"
-Name:  "VID_20221001_183512.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-10/VID_20221001_183512.mp4"
-Size:  316369559
---------------------
 groupName= "VID_20221001_184230"
 Path= "/home/andy/From Smartfone/!2022/2022-10"
 Error: could not load image: "VID_20221001_184230.mp4"
-Name:  "VID_20221001_184230.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-10/VID_20221001_184230.mp4"
-Size:  6681669
---------------------
 groupName= "VID_20221001_190139"
 Path= "/home/andy/From Smartfone/!2022/2022-10"
 Error: could not load image: "VID_20221001_190139.mp4"
-Name:  "VID_20221001_190139.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-10/VID_20221001_190139.mp4"
-Size:  30704697
---------------------
 groupName= "VID_20221001_192248"
 Path= "/home/andy/From Smartfone/!2022/2022-10"
 Error: could not load image: "VID_20221001_192248.mp4"
-Name:  "VID_20221001_192248.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-10/VID_20221001_192248.mp4"
-Size:  7317820
---------------------
 groupName= "VID_20221023_125402"
 Path= "/home/andy/From Smartfone/!2022/2022-10"
 Error: could not load image: "VID_20221023_125402.mp4"
-Name:  "VID_20221023_125402.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-10/VID_20221023_125402.mp4"
-Size:  4248509
---------------------
 groupName= "mace_cl_compiled_mibokeh"
 Path= "/home/andy/From Smartfone/!2022/2022-10"
 Error: could not load image: "mace_cl_compiled_mibokeh.bin"
-Name:  "mace_cl_compiled_mibokeh.bin"
-Path:  "/home/andy/From Smartfone/!2022/2022-10/mace_cl_compiled_mibokeh.bin"
-Size:  455782
---------------------
 groupName= "IMG_20221102_175658"
 Path= "/home/andy/From Smartfone/!2022/2022-11"
 groupName= "IMG_20221103_145117"
@@ -3431,24 +3168,12 @@ Path= "/home/andy/From Smartfone/!2022/2022-11"
 groupName= "VID_20221118_195539"
 Path= "/home/andy/From Smartfone/!2022/2022-11"
 Error: could not load image: "VID_20221118_195539.mp4"
-Name:  "VID_20221118_195539.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-11/VID_20221118_195539.mp4"
-Size:  58598993
---------------------
 groupName= "VID_20221118_195924"
 Path= "/home/andy/From Smartfone/!2022/2022-11"
 Error: could not load image: "VID_20221118_195924.mp4"
-Name:  "VID_20221118_195924.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-11/VID_20221118_195924.mp4"
-Size:  38420180
---------------------
 groupName= "VID_20221118_200136"
 Path= "/home/andy/From Smartfone/!2022/2022-11"
 Error: could not load image: "VID_20221118_200136.mp4"
-Name:  "VID_20221118_200136.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-11/VID_20221118_200136.mp4"
-Size:  69900265
---------------------
 groupName= "IMG_20221201_094039"
 Path= "/home/andy/From Smartfone/!2022/2022-12"
 groupName= "IMG_20221203_110538"
@@ -3530,31 +3255,15 @@ Path= "/home/andy/From Smartfone/!2022/2022-12"
 groupName= "VID_20221203_111607"
 Path= "/home/andy/From Smartfone/!2022/2022-12"
 Error: could not load image: "VID_20221203_111607.mp4"
-Name:  "VID_20221203_111607.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-12/VID_20221203_111607.mp4"
-Size:  51697401
---------------------
 groupName= "VID_20221231_132052"
 Path= "/home/andy/From Smartfone/!2022/2022-12"
 Error: could not load image: "VID_20221231_132052.mp4"
-Name:  "VID_20221231_132052.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-12/VID_20221231_132052.mp4"
-Size:  5004268
---------------------
 groupName= "VID_20221231_132059"
 Path= "/home/andy/From Smartfone/!2022/2022-12"
 Error: could not load image: "VID_20221231_132059.mp4"
-Name:  "VID_20221231_132059.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-12/VID_20221231_132059.mp4"
-Size:  9302385
---------------------
 groupName= "VID_20221231_140823"
 Path= "/home/andy/From Smartfone/!2022/2022-12"
 Error: could not load image: "VID_20221231_140823.mp4"
-Name:  "VID_20221231_140823.mp4"
-Path:  "/home/andy/From Smartfone/!2022/2022-12/VID_20221231_140823.mp4"
-Size:  24639929
---------------------
 groupName= "IMG_20230101_122744"
 Path= "/home/andy/From Smartfone/!2023/2023-01"
 groupName= "IMG_20230101_145035"
@@ -3762,52 +3471,24 @@ Path= "/home/andy/From Smartfone/!2023/2023-01"
 groupName= "VID_20230101_011858"
 Path= "/home/andy/From Smartfone/!2023/2023-01"
 Error: could not load image: "VID_20230101_011858.mp4"
-Name:  "VID_20230101_011858.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-01/VID_20230101_011858.mp4"
-Size:  8384375
---------------------
 groupName= "VID_20230101_012115"
 Path= "/home/andy/From Smartfone/!2023/2023-01"
 Error: could not load image: "VID_20230101_012115.mp4"
-Name:  "VID_20230101_012115.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-01/VID_20230101_012115.mp4"
-Size:  11853717
---------------------
 groupName= "VID_20230103_184558"
 Path= "/home/andy/From Smartfone/!2023/2023-01"
 Error: could not load image: "VID_20230103_184558.mp4"
-Name:  "VID_20230103_184558.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-01/VID_20230103_184558.mp4"
-Size:  9539508
---------------------
 groupName= "VID_20230103_184609"
 Path= "/home/andy/From Smartfone/!2023/2023-01"
 Error: could not load image: "VID_20230103_184609.mp4"
-Name:  "VID_20230103_184609.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-01/VID_20230103_184609.mp4"
-Size:  4770231
---------------------
 groupName= "VID_20230105_185734"
 Path= "/home/andy/From Smartfone/!2023/2023-01"
 Error: could not load image: "VID_20230105_185734.mp4"
-Name:  "VID_20230105_185734.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-01/VID_20230105_185734.mp4"
-Size:  20091323
---------------------
 groupName= "VID_20230121_185044"
 Path= "/home/andy/From Smartfone/!2023/2023-01"
 Error: could not load image: "VID_20230121_185044.mp4"
-Name:  "VID_20230121_185044.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-01/VID_20230121_185044.mp4"
-Size:  47620968
---------------------
 groupName= "VID_20230127_080151"
 Path= "/home/andy/From Smartfone/!2023/2023-01"
 Error: could not load image: "VID_20230127_080151.mp4"
-Name:  "VID_20230127_080151.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-01/VID_20230127_080151.mp4"
-Size:  18034910
---------------------
 groupName= "IMG_20230205_153800"
 Path= "/home/andy/From Smartfone/!2023/2023-02"
 groupName= "IMG_20230205_153816"
@@ -3945,24 +3626,12 @@ Path= "/home/andy/From Smartfone/!2023/2023-02"
 groupName= "VID_20230202_061542"
 Path= "/home/andy/From Smartfone/!2023/2023-02"
 Error: could not load image: "VID_20230202_061542.mp4"
-Name:  "VID_20230202_061542.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-02/VID_20230202_061542.mp4"
-Size:  18412895
---------------------
 groupName= "VID_20230219_111417"
 Path= "/home/andy/From Smartfone/!2023/2023-02"
 Error: could not load image: "VID_20230219_111417.mp4"
-Name:  "VID_20230219_111417.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-02/VID_20230219_111417.mp4"
-Size:  35577407
---------------------
 groupName= "VID_20230226_133456"
 Path= "/home/andy/From Smartfone/!2023/2023-02"
 Error: could not load image: "VID_20230226_133456.mp4"
-Name:  "VID_20230226_133456.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-02/VID_20230226_133456.mp4"
-Size:  7775752
---------------------
 groupName= "IMG_20230302_161628"
 Path= "/home/andy/From Smartfone/!2023/2023-03"
 groupName= "IMG_20230302_161747"
@@ -4190,115 +3859,51 @@ Path= "/home/andy/From Smartfone/!2023/2023-03"
 groupName= "VID_20230302_084729"
 Path= "/home/andy/From Smartfone/!2023/2023-03"
 Error: could not load image: "VID_20230302_084729.mp4"
-Name:  "VID_20230302_084729.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-03/VID_20230302_084729.mp4"
-Size:  19966834
---------------------
 groupName= "VID_20230318_161107"
 Path= "/home/andy/From Smartfone/!2023/2023-03"
 Error: could not load image: "VID_20230318_161107.mp4"
-Name:  "VID_20230318_161107.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-03/VID_20230318_161107.mp4"
-Size:  22532843
---------------------
 groupName= "VID_20230318_161553"
 Path= "/home/andy/From Smartfone/!2023/2023-03"
 Error: could not load image: "VID_20230318_161553.mp4"
-Name:  "VID_20230318_161553.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-03/VID_20230318_161553.mp4"
-Size:  9935408
---------------------
 groupName= "VID_20230319_100206"
 Path= "/home/andy/From Smartfone/!2023/2023-03"
 Error: could not load image: "VID_20230319_100206.mp4"
-Name:  "VID_20230319_100206.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-03/VID_20230319_100206.mp4"
-Size:  20440452
---------------------
 groupName= "VID_20230319_101355"
 Path= "/home/andy/From Smartfone/!2023/2023-03"
 Error: could not load image: "VID_20230319_101355.mp4"
-Name:  "VID_20230319_101355.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-03/VID_20230319_101355.mp4"
-Size:  14906195
---------------------
 groupName= "VID_20230319_101903"
 Path= "/home/andy/From Smartfone/!2023/2023-03"
 Error: could not load image: "VID_20230319_101903.mp4"
-Name:  "VID_20230319_101903.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-03/VID_20230319_101903.mp4"
-Size:  16812827
---------------------
 groupName= "VID_20230319_102103"
 Path= "/home/andy/From Smartfone/!2023/2023-03"
 Error: could not load image: "VID_20230319_102103.mp4"
-Name:  "VID_20230319_102103.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-03/VID_20230319_102103.mp4"
-Size:  7119672
---------------------
 groupName= "VID_20230319_103618"
 Path= "/home/andy/From Smartfone/!2023/2023-03"
 Error: could not load image: "VID_20230319_103618.mp4"
-Name:  "VID_20230319_103618.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-03/VID_20230319_103618.mp4"
-Size:  45064105
---------------------
 groupName= "VID_20230319_104646"
 Path= "/home/andy/From Smartfone/!2023/2023-03"
 Error: could not load image: "VID_20230319_104646.mp4"
-Name:  "VID_20230319_104646.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-03/VID_20230319_104646.mp4"
-Size:  51660517
---------------------
 groupName= "VID_20230319_125244"
 Path= "/home/andy/From Smartfone/!2023/2023-03"
 Error: could not load image: "VID_20230319_125244.mp4"
-Name:  "VID_20230319_125244.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-03/VID_20230319_125244.mp4"
-Size:  20610747
---------------------
 groupName= "VID_20230319_130027"
 Path= "/home/andy/From Smartfone/!2023/2023-03"
 Error: could not load image: "VID_20230319_130027.mp4"
-Name:  "VID_20230319_130027.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-03/VID_20230319_130027.mp4"
-Size:  18879156
---------------------
 groupName= "VID_20230319_130923"
 Path= "/home/andy/From Smartfone/!2023/2023-03"
 Error: could not load image: "VID_20230319_130923.mp4"
-Name:  "VID_20230319_130923.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-03/VID_20230319_130923.mp4"
-Size:  18778593
---------------------
 groupName= "VID_20230319_131144(0)"
 Path= "/home/andy/From Smartfone/!2023/2023-03"
 Error: could not load image: "VID_20230319_131144(0).mp4"
-Name:  "VID_20230319_131144(0).mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-03/VID_20230319_131144(0).mp4"
-Size:  5495565
---------------------
 groupName= "VID_20230319_131144"
 Path= "/home/andy/From Smartfone/!2023/2023-03"
 Error: could not load image: "VID_20230319_131144.mp4"
-Name:  "VID_20230319_131144.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-03/VID_20230319_131144.mp4"
-Size:  13920021
---------------------
 groupName= "VID_20230325_163205"
 Path= "/home/andy/From Smartfone/!2023/2023-03"
 Error: could not load image: "VID_20230325_163205.mp4"
-Name:  "VID_20230325_163205.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-03/VID_20230325_163205.mp4"
-Size:  21121818
---------------------
 groupName= "VID_20230325_175649"
 Path= "/home/andy/From Smartfone/!2023/2023-03"
 Error: could not load image: "VID_20230325_175649.mp4"
-Name:  "VID_20230325_175649.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-03/VID_20230325_175649.mp4"
-Size:  66468645
---------------------
 groupName= "IMG_20230401_110113"
 Path= "/home/andy/From Smartfone/!2023/2023-04"
 groupName= "IMG_20230401_110652"
@@ -4382,66 +3987,30 @@ Path= "/home/andy/From Smartfone/!2023/2023-04"
 groupName= "VID_20230408_115248"
 Path= "/home/andy/From Smartfone/!2023/2023-04"
 Error: could not load image: "VID_20230408_115248.mp4"
-Name:  "VID_20230408_115248.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-04/VID_20230408_115248.mp4"
-Size:  40300209
---------------------
 groupName= "VID_20230408_142950"
 Path= "/home/andy/From Smartfone/!2023/2023-04"
 Error: could not load image: "VID_20230408_142950.mp4"
-Name:  "VID_20230408_142950.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-04/VID_20230408_142950.mp4"
-Size:  45901782
---------------------
 groupName= "VID_20230415_202409"
 Path= "/home/andy/From Smartfone/!2023/2023-04"
 Error: could not load image: "VID_20230415_202409.mp4"
-Name:  "VID_20230415_202409.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-04/VID_20230415_202409.mp4"
-Size:  36415812
---------------------
 groupName= "VID_20230415_202432"
 Path= "/home/andy/From Smartfone/!2023/2023-04"
 Error: could not load image: "VID_20230415_202432.mp4"
-Name:  "VID_20230415_202432.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-04/VID_20230415_202432.mp4"
-Size:  26923250
---------------------
 groupName= "VID_20230415_202458"
 Path= "/home/andy/From Smartfone/!2023/2023-04"
 Error: could not load image: "VID_20230415_202458.mp4"
-Name:  "VID_20230415_202458.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-04/VID_20230415_202458.mp4"
-Size:  17554261
---------------------
 groupName= "VID_20230422_155252"
 Path= "/home/andy/From Smartfone/!2023/2023-04"
 Error: could not load image: "VID_20230422_155252.mp4"
-Name:  "VID_20230422_155252.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-04/VID_20230422_155252.mp4"
-Size:  22723074
---------------------
 groupName= "VID_20230422_161729"
 Path= "/home/andy/From Smartfone/!2023/2023-04"
 Error: could not load image: "VID_20230422_161729.mp4"
-Name:  "VID_20230422_161729.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-04/VID_20230422_161729.mp4"
-Size:  53596449
---------------------
 groupName= "VID_20230422_165446"
 Path= "/home/andy/From Smartfone/!2023/2023-04"
 Error: could not load image: "VID_20230422_165446.mp4"
-Name:  "VID_20230422_165446.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-04/VID_20230422_165446.mp4"
-Size:  54011284
---------------------
 groupName= "VID_20230422_171214"
 Path= "/home/andy/From Smartfone/!2023/2023-04"
 Error: could not load image: "VID_20230422_171214.mp4"
-Name:  "VID_20230422_171214.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-04/VID_20230422_171214.mp4"
-Size:  65598297
---------------------
 groupName= "IMG_20230504_054538"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 groupName= "IMG_20230504_063702"
@@ -4565,304 +4134,132 @@ Path= "/home/andy/From Smartfone/!2023/2023-05"
 groupName= "VID_20230506_130113"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230506_130113.mp4"
-Name:  "VID_20230506_130113.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230506_130113.mp4"
-Size:  45687064
---------------------
 groupName= "VID_20230506_220050"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230506_220050.mp4"
-Name:  "VID_20230506_220050.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230506_220050.mp4"
-Size:  77343183
---------------------
 groupName= "VID_20230519_182532"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230519_182532.mp4"
-Name:  "VID_20230519_182532.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230519_182532.mp4"
-Size:  58346002
---------------------
 groupName= "VID_20230519_182849"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230519_182849.mp4"
-Name:  "VID_20230519_182849.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230519_182849.mp4"
-Size:  6819468
---------------------
 groupName= "VID_20230519_182923"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230519_182923.mp4"
-Name:  "VID_20230519_182923.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230519_182923.mp4"
-Size:  29054644
---------------------
 groupName= "VID_20230519_183010"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230519_183010.mp4"
-Name:  "VID_20230519_183010.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230519_183010.mp4"
-Size:  8211651
---------------------
 groupName= "VID_20230519_183047"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230519_183047.mp4"
-Name:  "VID_20230519_183047.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230519_183047.mp4"
-Size:  30075315
---------------------
 groupName= "VID_20230519_183148"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230519_183148.mp4"
-Name:  "VID_20230519_183148.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230519_183148.mp4"
-Size:  90475638
---------------------
 groupName= "VID_20230519_183541"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230519_183541.mp4"
-Name:  "VID_20230519_183541.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230519_183541.mp4"
-Size:  16001205
---------------------
 groupName= "VID_20230519_212751"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230519_212751.mp4"
-Name:  "VID_20230519_212751.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230519_212751.mp4"
-Size:  2914257
---------------------
 groupName= "VID_20230519_212754"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230519_212754.mp4"
-Name:  "VID_20230519_212754.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230519_212754.mp4"
-Size:  322774772
---------------------
 groupName= "VID_20230519_213126"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230519_213126.mp4"
-Name:  "VID_20230519_213126.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230519_213126.mp4"
-Size:  68697106
---------------------
 groupName= "VID_20230519_213205"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230519_213205.mp4"
-Name:  "VID_20230519_213205.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230519_213205.mp4"
-Size:  29583832
---------------------
 groupName= "VID_20230519_213533"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230519_213533.mp4"
-Name:  "VID_20230519_213533.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230519_213533.mp4"
-Size:  45962159
---------------------
 groupName= "VID_20230519_213559"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230519_213559.mp4"
-Name:  "VID_20230519_213559.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230519_213559.mp4"
-Size:  75133271
---------------------
 groupName= "VID_20230519_213716"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230519_213716.mp4"
-Name:  "VID_20230519_213716.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230519_213716.mp4"
-Size:  38054972
---------------------
 groupName= "VID_20230519_213743"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230519_213743.mp4"
-Name:  "VID_20230519_213743.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230519_213743.mp4"
-Size:  41993910
---------------------
 groupName= "VID_20230520_103230"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230520_103230.mp4"
-Name:  "VID_20230520_103230.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230520_103230.mp4"
-Size:  16502689
---------------------
 groupName= "VID_20230520_103244"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230520_103244.mp4"
-Name:  "VID_20230520_103244.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230520_103244.mp4"
-Size:  4952856
---------------------
 groupName= "VID_20230520_103408"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230520_103408.mp4"
-Name:  "VID_20230520_103408.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230520_103408.mp4"
-Size:  42405606
---------------------
 groupName= "VID_20230520_103530"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230520_103530.mp4"
-Name:  "VID_20230520_103530.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230520_103530.mp4"
-Size:  39871493
---------------------
 groupName= "VID_20230520_103601"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230520_103601.mp4"
-Name:  "VID_20230520_103601.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230520_103601.mp4"
-Size:  59431266
---------------------
 groupName= "VID_20230520_103639"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230520_103639.mp4"
-Name:  "VID_20230520_103639.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230520_103639.mp4"
-Size:  11833388
---------------------
 groupName= "VID_20230520_103757"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230520_103757.mp4"
-Name:  "VID_20230520_103757.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230520_103757.mp4"
-Size:  38174725
---------------------
 groupName= "VID_20230520_103820"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230520_103820.mp4"
-Name:  "VID_20230520_103820.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230520_103820.mp4"
-Size:  20594521
---------------------
 groupName= "VID_20230520_103902"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230520_103902.mp4"
-Name:  "VID_20230520_103902.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230520_103902.mp4"
-Size:  32464049
---------------------
 groupName= "VID_20230520_103942"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230520_103942.mp4"
-Name:  "VID_20230520_103942.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230520_103942.mp4"
-Size:  23130619
---------------------
 groupName= "VID_20230520_104011"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230520_104011.mp4"
-Name:  "VID_20230520_104011.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230520_104011.mp4"
-Size:  22044221
---------------------
 groupName= "VID_20230520_104748"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230520_104748.mp4"
-Name:  "VID_20230520_104748.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230520_104748.mp4"
-Size:  57071346
---------------------
 groupName= "VID_20230520_104822"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230520_104822.mp4"
-Name:  "VID_20230520_104822.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230520_104822.mp4"
-Size:  9973288
---------------------
 groupName= "VID_20230520_105649"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230520_105649.mp4"
-Name:  "VID_20230520_105649.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230520_105649.mp4"
-Size:  43716926
---------------------
 groupName= "VID_20230520_121532"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230520_121532.mp4"
-Name:  "VID_20230520_121532.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230520_121532.mp4"
-Size:  9803145
---------------------
 groupName= "VID_20230520_121727"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230520_121727.mp4"
-Name:  "VID_20230520_121727.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230520_121727.mp4"
-Size:  79927105
---------------------
 groupName= "VID_20230520_123318"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230520_123318.mp4"
-Name:  "VID_20230520_123318.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230520_123318.mp4"
-Size:  60032942
---------------------
 groupName= "VID_20230520_123722"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230520_123722.mp4"
-Name:  "VID_20230520_123722.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230520_123722.mp4"
-Size:  25444436
---------------------
 groupName= "VID_20230520_123855"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230520_123855.mp4"
-Name:  "VID_20230520_123855.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230520_123855.mp4"
-Size:  39695218
---------------------
 groupName= "VID_20230520_123916"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230520_123916.mp4"
-Name:  "VID_20230520_123916.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230520_123916.mp4"
-Size:  9417933
---------------------
 groupName= "VID_20230520_131901"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230520_131901.mp4"
-Name:  "VID_20230520_131901.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230520_131901.mp4"
-Size:  25645971
---------------------
 groupName= "VID_20230520_131918"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230520_131918.mp4"
-Name:  "VID_20230520_131918.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230520_131918.mp4"
-Size:  14367165
---------------------
 groupName= "VID_20230527_133206"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230527_133206.mp4"
-Name:  "VID_20230527_133206.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230527_133206.mp4"
-Size:  19545722
---------------------
 groupName= "VID_20230527_151516"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230527_151516.mp4"
-Name:  "VID_20230527_151516.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230527_151516.mp4"
-Size:  38027546
---------------------
 groupName= "VID_20230527_162821"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230527_162821.mp4"
-Name:  "VID_20230527_162821.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230527_162821.mp4"
-Size:  50558777
---------------------
 groupName= "VID_20230527_170933"
 Path= "/home/andy/From Smartfone/!2023/2023-05"
 Error: could not load image: "VID_20230527_170933.mp4"
-Name:  "VID_20230527_170933.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-05/VID_20230527_170933.mp4"
-Size:  30139425
---------------------
 groupName= "IMG_20230604_123103"
 Path= "/home/andy/From Smartfone/!2023/2023-06"
 groupName= "IMG_20230604_123116"
@@ -5030,80 +4427,36 @@ Path= "/home/andy/From Smartfone/!2023/2023-06"
 groupName= "VID_20230602_054912"
 Path= "/home/andy/From Smartfone/!2023/2023-06"
 Error: could not load image: "VID_20230602_054912.mp4"
-Name:  "VID_20230602_054912.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-06/VID_20230602_054912.mp4"
-Size:  21351537
---------------------
 groupName= "VID_20230610_161315"
 Path= "/home/andy/From Smartfone/!2023/2023-06"
 Error: could not load image: "VID_20230610_161315.mp4"
-Name:  "VID_20230610_161315.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-06/VID_20230610_161315.mp4"
-Size:  16844554
---------------------
 groupName= "VID_20230610_161323"
 Path= "/home/andy/From Smartfone/!2023/2023-06"
 Error: could not load image: "VID_20230610_161323.mp4"
-Name:  "VID_20230610_161323.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-06/VID_20230610_161323.mp4"
-Size:  19989385
---------------------
 groupName= "VID_20230610_161344"
 Path= "/home/andy/From Smartfone/!2023/2023-06"
 Error: could not load image: "VID_20230610_161344.mp4"
-Name:  "VID_20230610_161344.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-06/VID_20230610_161344.mp4"
-Size:  33361759
---------------------
 groupName= "VID_20230610_165200"
 Path= "/home/andy/From Smartfone/!2023/2023-06"
 Error: could not load image: "VID_20230610_165200.mp4"
-Name:  "VID_20230610_165200.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-06/VID_20230610_165200.mp4"
-Size:  21712685
---------------------
 groupName= "VID_20230611_124012"
 Path= "/home/andy/From Smartfone/!2023/2023-06"
 Error: could not load image: "VID_20230611_124012.mp4"
-Name:  "VID_20230611_124012.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-06/VID_20230611_124012.mp4"
-Size:  39436991
---------------------
 groupName= "VID_20230611_125046"
 Path= "/home/andy/From Smartfone/!2023/2023-06"
 Error: could not load image: "VID_20230611_125046.mp4"
-Name:  "VID_20230611_125046.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-06/VID_20230611_125046.mp4"
-Size:  13943028
---------------------
 groupName= "VID_20230611_125124"
 Path= "/home/andy/From Smartfone/!2023/2023-06"
 Error: could not load image: "VID_20230611_125124.mp4"
-Name:  "VID_20230611_125124.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-06/VID_20230611_125124.mp4"
-Size:  70903791
---------------------
 groupName= "VID_20230612_155954"
 Path= "/home/andy/From Smartfone/!2023/2023-06"
 Error: could not load image: "VID_20230612_155954.mp4"
-Name:  "VID_20230612_155954.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-06/VID_20230612_155954.mp4"
-Size:  43522486
---------------------
 groupName= "VID_20230622_095419"
 Path= "/home/andy/From Smartfone/!2023/2023-06"
 Error: could not load image: "VID_20230622_095419.mp4"
-Name:  "VID_20230622_095419.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-06/VID_20230622_095419.mp4"
-Size:  20065234
---------------------
 groupName= "VID_20230625_125358"
 Path= "/home/andy/From Smartfone/!2023/2023-06"
 Error: could not load image: "VID_20230625_125358.mp4"
-Name:  "VID_20230625_125358.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-06/VID_20230625_125358.mp4"
-Size:  57841337
---------------------
 groupName= "IMG_20230701_123136"
 Path= "/home/andy/From Smartfone/!2023/2023-07"
 groupName= "IMG_20230702_100247"
@@ -5189,66 +4542,30 @@ Path= "/home/andy/From Smartfone/!2023/2023-07"
 groupName= "VID_20230701_123153"
 Path= "/home/andy/From Smartfone/!2023/2023-07"
 Error: could not load image: "VID_20230701_123153.mp4"
-Name:  "VID_20230701_123153.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-07/VID_20230701_123153.mp4"
-Size:  12641251
---------------------
 groupName= "VID_20230702_115759"
 Path= "/home/andy/From Smartfone/!2023/2023-07"
 Error: could not load image: "VID_20230702_115759.mp4"
-Name:  "VID_20230702_115759.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-07/VID_20230702_115759.mp4"
-Size:  27254417
---------------------
 groupName= "VID_20230708_132532"
 Path= "/home/andy/From Smartfone/!2023/2023-07"
 Error: could not load image: "VID_20230708_132532.mp4"
-Name:  "VID_20230708_132532.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-07/VID_20230708_132532.mp4"
-Size:  45546084
---------------------
 groupName= "VID_20230708_150548"
 Path= "/home/andy/From Smartfone/!2023/2023-07"
 Error: could not load image: "VID_20230708_150548.mp4"
-Name:  "VID_20230708_150548.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-07/VID_20230708_150548.mp4"
-Size:  109497460
---------------------
 groupName= "VID_20230708_182614"
 Path= "/home/andy/From Smartfone/!2023/2023-07"
 Error: could not load image: "VID_20230708_182614.mp4"
-Name:  "VID_20230708_182614.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-07/VID_20230708_182614.mp4"
-Size:  37005009
---------------------
 groupName= "VID_20230720_141608"
 Path= "/home/andy/From Smartfone/!2023/2023-07"
 Error: could not load image: "VID_20230720_141608.mp4"
-Name:  "VID_20230720_141608.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-07/VID_20230720_141608.mp4"
-Size:  29853824
---------------------
 groupName= "VID_20230722_194138"
 Path= "/home/andy/From Smartfone/!2023/2023-07"
 Error: could not load image: "VID_20230722_194138.mp4"
-Name:  "VID_20230722_194138.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-07/VID_20230722_194138.mp4"
-Size:  8526528
---------------------
 groupName= "VID_20230729_133734"
 Path= "/home/andy/From Smartfone/!2023/2023-07"
 Error: could not load image: "VID_20230729_133734.mp4"
-Name:  "VID_20230729_133734.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-07/VID_20230729_133734.mp4"
-Size:  43403959
---------------------
 groupName= "VID_20230729_134538"
 Path= "/home/andy/From Smartfone/!2023/2023-07"
 Error: could not load image: "VID_20230729_134538.mp4"
-Name:  "VID_20230729_134538.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-07/VID_20230729_134538.mp4"
-Size:  25766889
---------------------
 groupName= "IMG_20230804_171314"
 Path= "/home/andy/From Smartfone/!2023/2023-08"
 groupName= "IMG_20230804_174627"
@@ -5358,24 +4675,12 @@ Path= "/home/andy/From Smartfone/!2023/2023-08"
 groupName= "VID_20230812_170238"
 Path= "/home/andy/From Smartfone/!2023/2023-08"
 Error: could not load image: "VID_20230812_170238.mp4"
-Name:  "VID_20230812_170238.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-08/VID_20230812_170238.mp4"
-Size:  27672620
---------------------
 groupName= "VID_20230812_170251"
 Path= "/home/andy/From Smartfone/!2023/2023-08"
 Error: could not load image: "VID_20230812_170251.mp4"
-Name:  "VID_20230812_170251.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-08/VID_20230812_170251.mp4"
-Size:  5876322
---------------------
 groupName= "VID_20230812_184311"
 Path= "/home/andy/From Smartfone/!2023/2023-08"
 Error: could not load image: "VID_20230812_184311.mp4"
-Name:  "VID_20230812_184311.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-08/VID_20230812_184311.mp4"
-Size:  36317997
---------------------
 groupName= "IMG_20230903_104236"
 Path= "/home/andy/From Smartfone/!2023/2023-09"
 groupName= "IMG_20230903_104259"
@@ -5471,24 +4776,12 @@ Path= "/home/andy/From Smartfone/!2023/2023-09"
 groupName= "VID_20230910_144503"
 Path= "/home/andy/From Smartfone/!2023/2023-09"
 Error: could not load image: "VID_20230910_144503.mp4"
-Name:  "VID_20230910_144503.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-09/VID_20230910_144503.mp4"
-Size:  44896314
---------------------
 groupName= "VID_20230930_180053"
 Path= "/home/andy/From Smartfone/!2023/2023-09"
 Error: could not load image: "VID_20230930_180053.mp4"
-Name:  "VID_20230930_180053.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-09/VID_20230930_180053.mp4"
-Size:  17798261
---------------------
 groupName= "VID_20230930_181238"
 Path= "/home/andy/From Smartfone/!2023/2023-09"
 Error: could not load image: "VID_20230930_181238.mp4"
-Name:  "VID_20230930_181238.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-09/VID_20230930_181238.mp4"
-Size:  36111967
---------------------
 groupName= "IMG_20231001_124002"
 Path= "/home/andy/From Smartfone/!2023/2023-10"
 groupName= "IMG_20231001_152835"
@@ -5656,129 +4949,57 @@ Path= "/home/andy/From Smartfone/!2023/2023-10"
 groupName= "VID_20231001_163803"
 Path= "/home/andy/From Smartfone/!2023/2023-10"
 Error: could not load image: "VID_20231001_163803.mp4"
-Name:  "VID_20231001_163803.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-10/VID_20231001_163803.mp4"
-Size:  11119803
---------------------
 groupName= "VID_20231021_113956"
 Path= "/home/andy/From Smartfone/!2023/2023-10"
 Error: could not load image: "VID_20231021_113956.mp4"
-Name:  "VID_20231021_113956.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-10/VID_20231021_113956.mp4"
-Size:  34946649
---------------------
 groupName= "VID_20231021_114033"
 Path= "/home/andy/From Smartfone/!2023/2023-10"
 Error: could not load image: "VID_20231021_114033.mp4"
-Name:  "VID_20231021_114033.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-10/VID_20231021_114033.mp4"
-Size:  30486755
---------------------
 groupName= "VID_20231021_114152"
 Path= "/home/andy/From Smartfone/!2023/2023-10"
 Error: could not load image: "VID_20231021_114152.mp4"
-Name:  "VID_20231021_114152.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-10/VID_20231021_114152.mp4"
-Size:  20054340
---------------------
 groupName= "VID_20231021_114240"
 Path= "/home/andy/From Smartfone/!2023/2023-10"
 Error: could not load image: "VID_20231021_114240.mp4"
-Name:  "VID_20231021_114240.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-10/VID_20231021_114240.mp4"
-Size:  63723965
---------------------
 groupName= "VID_20231021_114321"
 Path= "/home/andy/From Smartfone/!2023/2023-10"
 Error: could not load image: "VID_20231021_114321.mp4"
-Name:  "VID_20231021_114321.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-10/VID_20231021_114321.mp4"
-Size:  37453549
---------------------
 groupName= "VID_20231021_114345"
 Path= "/home/andy/From Smartfone/!2023/2023-10"
 Error: could not load image: "VID_20231021_114345.mp4"
-Name:  "VID_20231021_114345.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-10/VID_20231021_114345.mp4"
-Size:  37977303
---------------------
 groupName= "VID_20231021_114415"
 Path= "/home/andy/From Smartfone/!2023/2023-10"
 Error: could not load image: "VID_20231021_114415.mp4"
-Name:  "VID_20231021_114415.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-10/VID_20231021_114415.mp4"
-Size:  26009359
---------------------
 groupName= "VID_20231021_114442"
 Path= "/home/andy/From Smartfone/!2023/2023-10"
 Error: could not load image: "VID_20231021_114442.mp4"
-Name:  "VID_20231021_114442.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-10/VID_20231021_114442.mp4"
-Size:  50433395
---------------------
 groupName= "VID_20231021_114511"
 Path= "/home/andy/From Smartfone/!2023/2023-10"
 Error: could not load image: "VID_20231021_114511.mp4"
-Name:  "VID_20231021_114511.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-10/VID_20231021_114511.mp4"
-Size:  38113451
---------------------
 groupName= "VID_20231021_114548"
 Path= "/home/andy/From Smartfone/!2023/2023-10"
 Error: could not load image: "VID_20231021_114548.mp4"
-Name:  "VID_20231021_114548.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-10/VID_20231021_114548.mp4"
-Size:  35303313
---------------------
 groupName= "VID_20231021_120152"
 Path= "/home/andy/From Smartfone/!2023/2023-10"
 Error: could not load image: "VID_20231021_120152.mp4"
-Name:  "VID_20231021_120152.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-10/VID_20231021_120152.mp4"
-Size:  44238119
---------------------
 groupName= "VID_20231021_120614"
 Path= "/home/andy/From Smartfone/!2023/2023-10"
 Error: could not load image: "VID_20231021_120614.mp4"
-Name:  "VID_20231021_120614.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-10/VID_20231021_120614.mp4"
-Size:  28509482
---------------------
 groupName= "VID_20231021_120740"
 Path= "/home/andy/From Smartfone/!2023/2023-10"
 Error: could not load image: "VID_20231021_120740.mp4"
-Name:  "VID_20231021_120740.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-10/VID_20231021_120740.mp4"
-Size:  119616815
---------------------
 groupName= "VID_20231029_140845"
 Path= "/home/andy/From Smartfone/!2023/2023-10"
 Error: could not load image: "VID_20231029_140845.mp4"
-Name:  "VID_20231029_140845.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-10/VID_20231029_140845.mp4"
-Size:  6582639
---------------------
 groupName= "VID_20231029_143000"
 Path= "/home/andy/From Smartfone/!2023/2023-10"
 Error: could not load image: "VID_20231029_143000.mp4"
-Name:  "VID_20231029_143000.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-10/VID_20231029_143000.mp4"
-Size:  47350581
---------------------
 groupName= "VID_20231029_143042"
 Path= "/home/andy/From Smartfone/!2023/2023-10"
 Error: could not load image: "VID_20231029_143042.mp4"
-Name:  "VID_20231029_143042.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-10/VID_20231029_143042.mp4"
-Size:  11441391
---------------------
 groupName= "VID_20231029_151952"
 Path= "/home/andy/From Smartfone/!2023/2023-10"
 Error: could not load image: "VID_20231029_151952.mp4"
-Name:  "VID_20231029_151952.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-10/VID_20231029_151952.mp4"
-Size:  10239152
---------------------
 groupName= "IMG_20231101_171633"
 Path= "/home/andy/From Smartfone/!2023/2023-11"
 groupName= "IMG_20231101_171641"
@@ -5842,10 +5063,6 @@ Path= "/home/andy/From Smartfone/!2023/2023-11"
 groupName= "VID_20231105_123606"
 Path= "/home/andy/From Smartfone/!2023/2023-11"
 Error: could not load image: "VID_20231105_123606.mp4"
-Name:  "VID_20231105_123606.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-11/VID_20231105_123606.mp4"
-Size:  13229423
---------------------
 groupName= "IMG_20231201_204014"
 Path= "/home/andy/From Smartfone/!2023/2023-12"
 groupName= "IMG_20231201_204022"
@@ -5931,108 +5148,48 @@ Path= "/home/andy/From Smartfone/!2023/2023-12"
 groupName= "VID_20231203_122444"
 Path= "/home/andy/From Smartfone/!2023/2023-12"
 Error: could not load image: "VID_20231203_122444.mp4"
-Name:  "VID_20231203_122444.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-12/VID_20231203_122444.mp4"
-Size:  10077520
---------------------
 groupName= "VID_20231203_122456"
 Path= "/home/andy/From Smartfone/!2023/2023-12"
 Error: could not load image: "VID_20231203_122456.mp4"
-Name:  "VID_20231203_122456.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-12/VID_20231203_122456.mp4"
-Size:  8476536
---------------------
 groupName= "VID_20231203_123903"
 Path= "/home/andy/From Smartfone/!2023/2023-12"
 Error: could not load image: "VID_20231203_123903.mp4"
-Name:  "VID_20231203_123903.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-12/VID_20231203_123903.mp4"
-Size:  3395020
---------------------
 groupName= "VID_20231203_125745"
 Path= "/home/andy/From Smartfone/!2023/2023-12"
 Error: could not load image: "VID_20231203_125745.mp4"
-Name:  "VID_20231203_125745.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-12/VID_20231203_125745.mp4"
-Size:  23976046
---------------------
 groupName= "VID_20231203_170008"
 Path= "/home/andy/From Smartfone/!2023/2023-12"
 Error: could not load image: "VID_20231203_170008.mp4"
-Name:  "VID_20231203_170008.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-12/VID_20231203_170008.mp4"
-Size:  4307059
---------------------
 groupName= "VID_20231217_175424"
 Path= "/home/andy/From Smartfone/!2023/2023-12"
 Error: could not load image: "VID_20231217_175424.mp4"
-Name:  "VID_20231217_175424.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-12/VID_20231217_175424.mp4"
-Size:  77559271
---------------------
 groupName= "VID_20231224_154057"
 Path= "/home/andy/From Smartfone/!2023/2023-12"
 Error: could not load image: "VID_20231224_154057.mp4"
-Name:  "VID_20231224_154057.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-12/VID_20231224_154057.mp4"
-Size:  5226296
---------------------
 groupName= "VID_20231224_154123"
 Path= "/home/andy/From Smartfone/!2023/2023-12"
 Error: could not load image: "VID_20231224_154123.mp4"
-Name:  "VID_20231224_154123.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-12/VID_20231224_154123.mp4"
-Size:  31594311
---------------------
 groupName= "VID_20231224_154141"
 Path= "/home/andy/From Smartfone/!2023/2023-12"
 Error: could not load image: "VID_20231224_154141.mp4"
-Name:  "VID_20231224_154141.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-12/VID_20231224_154141.mp4"
-Size:  7672122
---------------------
 groupName= "VID_20231224_154344"
 Path= "/home/andy/From Smartfone/!2023/2023-12"
 Error: could not load image: "VID_20231224_154344.mp4"
-Name:  "VID_20231224_154344.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-12/VID_20231224_154344.mp4"
-Size:  40792347
---------------------
 groupName= "VID_20231231_141831"
 Path= "/home/andy/From Smartfone/!2023/2023-12"
 Error: could not load image: "VID_20231231_141831.mp4"
-Name:  "VID_20231231_141831.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-12/VID_20231231_141831.mp4"
-Size:  10807946
---------------------
 groupName= "VID_20231231_230139"
 Path= "/home/andy/From Smartfone/!2023/2023-12"
 Error: could not load image: "VID_20231231_230139.mp4"
-Name:  "VID_20231231_230139.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-12/VID_20231231_230139.mp4"
-Size:  24461082
---------------------
 groupName= "VID_20231231_230316"
 Path= "/home/andy/From Smartfone/!2023/2023-12"
 Error: could not load image: "VID_20231231_230316.mp4"
-Name:  "VID_20231231_230316.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-12/VID_20231231_230316.mp4"
-Size:  57196209
---------------------
 groupName= "VID_20231231_230350"
 Path= "/home/andy/From Smartfone/!2023/2023-12"
 Error: could not load image: "VID_20231231_230350.mp4"
-Name:  "VID_20231231_230350.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-12/VID_20231231_230350.mp4"
-Size:  23426408
---------------------
 groupName= "VID_20231231_230724"
 Path= "/home/andy/From Smartfone/!2023/2023-12"
 Error: could not load image: "VID_20231231_230724.mp4"
-Name:  "VID_20231231_230724.mp4"
-Path:  "/home/andy/From Smartfone/!2023/2023-12/VID_20231231_230724.mp4"
-Size:  11083603
---------------------
 groupName= "IMG_20240101_145835"
 Path= "/home/andy/From Smartfone/!2024/2024-01"
 groupName= "IMG_20240101_145847"
@@ -6076,66 +5233,30 @@ Path= "/home/andy/From Smartfone/!2024/2024-01"
 groupName= "VID_20240101_005441"
 Path= "/home/andy/From Smartfone/!2024/2024-01"
 Error: could not load image: "VID_20240101_005441.mp4"
-Name:  "VID_20240101_005441.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-01/VID_20240101_005441.mp4"
-Size:  21574893
---------------------
 groupName= "VID_20240101_005552"
 Path= "/home/andy/From Smartfone/!2024/2024-01"
 Error: could not load image: "VID_20240101_005552.mp4"
-Name:  "VID_20240101_005552.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-01/VID_20240101_005552.mp4"
-Size:  110461445
---------------------
 groupName= "VID_20240101_130457"
 Path= "/home/andy/From Smartfone/!2024/2024-01"
 Error: could not load image: "VID_20240101_130457.mp4"
-Name:  "VID_20240101_130457.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-01/VID_20240101_130457.mp4"
-Size:  51065672
---------------------
 groupName= "VID_20240101_165828"
 Path= "/home/andy/From Smartfone/!2024/2024-01"
 Error: could not load image: "VID_20240101_165828.mp4"
-Name:  "VID_20240101_165828.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-01/VID_20240101_165828.mp4"
-Size:  2208280
---------------------
 groupName= "VID_20240101_165834"
 Path= "/home/andy/From Smartfone/!2024/2024-01"
 Error: could not load image: "VID_20240101_165834.mp4"
-Name:  "VID_20240101_165834.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-01/VID_20240101_165834.mp4"
-Size:  29157800
---------------------
 groupName= "VID_20240101_170208"
 Path= "/home/andy/From Smartfone/!2024/2024-01"
 Error: could not load image: "VID_20240101_170208.mp4"
-Name:  "VID_20240101_170208.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-01/VID_20240101_170208.mp4"
-Size:  9268456
---------------------
 groupName= "VID_20240118_223208"
 Path= "/home/andy/From Smartfone/!2024/2024-01"
 Error: could not load image: "VID_20240118_223208.mp4"
-Name:  "VID_20240118_223208.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-01/VID_20240118_223208.mp4"
-Size:  48318595
---------------------
 groupName= "VID_20240120_193743"
 Path= "/home/andy/From Smartfone/!2024/2024-01"
 Error: could not load image: "VID_20240120_193743.mp4"
-Name:  "VID_20240120_193743.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-01/VID_20240120_193743.mp4"
-Size:  7903362
---------------------
 groupName= "VID_20240120_193759"
 Path= "/home/andy/From Smartfone/!2024/2024-01"
 Error: could not load image: "VID_20240120_193759.mp4"
-Name:  "VID_20240120_193759.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-01/VID_20240120_193759.mp4"
-Size:  8815781
---------------------
 groupName= "IMG_20240201_170257"
 Path= "/home/andy/From Smartfone/!2024/2024-02"
 groupName= "IMG_20240201_170349"
@@ -6271,59 +5392,27 @@ Path= "/home/andy/From Smartfone/!2024/2024-03"
 groupName= "VID_20240309_190254"
 Path= "/home/andy/From Smartfone/!2024/2024-03"
 Error: could not load image: "VID_20240309_190254.mp4"
-Name:  "VID_20240309_190254.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-03/VID_20240309_190254.mp4"
-Size:  30427752
---------------------
 groupName= "VID_20240309_190509"
 Path= "/home/andy/From Smartfone/!2024/2024-03"
 Error: could not load image: "VID_20240309_190509.mp4"
-Name:  "VID_20240309_190509.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-03/VID_20240309_190509.mp4"
-Size:  6255698
---------------------
 groupName= "VID_20240309_190515"
 Path= "/home/andy/From Smartfone/!2024/2024-03"
 Error: could not load image: "VID_20240309_190515.mp4"
-Name:  "VID_20240309_190515.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-03/VID_20240309_190515.mp4"
-Size:  58580891
---------------------
 groupName= "VID_20240309_191805"
 Path= "/home/andy/From Smartfone/!2024/2024-03"
 Error: could not load image: "VID_20240309_191805.mp4"
-Name:  "VID_20240309_191805.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-03/VID_20240309_191805.mp4"
-Size:  87629079
---------------------
 groupName= "VID_20240317_145439"
 Path= "/home/andy/From Smartfone/!2024/2024-03"
 Error: could not load image: "VID_20240317_145439.mp4"
-Name:  "VID_20240317_145439.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-03/VID_20240317_145439.mp4"
-Size:  53169649
---------------------
 groupName= "VID_20240327_135045"
 Path= "/home/andy/From Smartfone/!2024/2024-03"
 Error: could not load image: "VID_20240327_135045.mp4"
-Name:  "VID_20240327_135045.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-03/VID_20240327_135045.mp4"
-Size:  4733398
---------------------
 groupName= "VID_20240331_160132"
 Path= "/home/andy/From Smartfone/!2024/2024-03"
 Error: could not load image: "VID_20240331_160132.mp4"
-Name:  "VID_20240331_160132.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-03/VID_20240331_160132.mp4"
-Size:  11167712
---------------------
 groupName= "VID_20240331_160151"
 Path= "/home/andy/From Smartfone/!2024/2024-03"
 Error: could not load image: "VID_20240331_160151.mp4"
-Name:  "VID_20240331_160151.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-03/VID_20240331_160151.mp4"
-Size:  35317671
---------------------
 groupName= "IMG_20240405_085237"
 Path= "/home/andy/From Smartfone/!2024/2024-04"
 groupName= "IMG_20240405_085337"
@@ -6421,10 +5510,6 @@ Path= "/home/andy/From Smartfone/!2024/2024-04"
 groupName= "VID_20240421_123624"
 Path= "/home/andy/From Smartfone/!2024/2024-04"
 Error: could not load image: "VID_20240421_123624.mp4"
-Name:  "VID_20240421_123624.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-04/VID_20240421_123624.mp4"
-Size:  23571571
---------------------
 groupName= "IMG_20240504_113553"
 Path= "/home/andy/From Smartfone/!2024/2024-05"
 groupName= "IMG_20240504_113821"
@@ -6494,87 +5579,39 @@ Path= "/home/andy/From Smartfone/!2024/2024-05"
 groupName= "VID_20240504_184304"
 Path= "/home/andy/From Smartfone/!2024/2024-05"
 Error: could not load image: "VID_20240504_184304.mp4"
-Name:  "VID_20240504_184304.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-05/VID_20240504_184304.mp4"
-Size:  29202192
---------------------
 groupName= "VID_20240505_110328"
 Path= "/home/andy/From Smartfone/!2024/2024-05"
 Error: could not load image: "VID_20240505_110328.mp4"
-Name:  "VID_20240505_110328.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-05/VID_20240505_110328.mp4"
-Size:  41797730
---------------------
 groupName= "VID_20240509_133757"
 Path= "/home/andy/From Smartfone/!2024/2024-05"
 Error: could not load image: "VID_20240509_133757.mp4"
-Name:  "VID_20240509_133757.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-05/VID_20240509_133757.mp4"
-Size:  30172793
---------------------
 groupName= "VID_20240512_121217"
 Path= "/home/andy/From Smartfone/!2024/2024-05"
 Error: could not load image: "VID_20240512_121217.mp4"
-Name:  "VID_20240512_121217.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-05/VID_20240512_121217.mp4"
-Size:  60124016
---------------------
 groupName= "VID_20240531_180626"
 Path= "/home/andy/From Smartfone/!2024/2024-05"
 Error: could not load image: "VID_20240531_180626.mp4"
-Name:  "VID_20240531_180626.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-05/VID_20240531_180626.mp4"
-Size:  79847235
---------------------
 groupName= "VID_20240531_182430"
 Path= "/home/andy/From Smartfone/!2024/2024-05"
 Error: could not load image: "VID_20240531_182430.mp4"
-Name:  "VID_20240531_182430.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-05/VID_20240531_182430.mp4"
-Size:  56122140
---------------------
 groupName= "VID_20240531_190245"
 Path= "/home/andy/From Smartfone/!2024/2024-05"
 Error: could not load image: "VID_20240531_190245.mp4"
-Name:  "VID_20240531_190245.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-05/VID_20240531_190245.mp4"
-Size:  25334840
---------------------
 groupName= "VID_20240531_190931"
 Path= "/home/andy/From Smartfone/!2024/2024-05"
 Error: could not load image: "VID_20240531_190931.mp4"
-Name:  "VID_20240531_190931.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-05/VID_20240531_190931.mp4"
-Size:  19472495
---------------------
 groupName= "VID_20240531_191145"
 Path= "/home/andy/From Smartfone/!2024/2024-05"
 Error: could not load image: "VID_20240531_191145.mp4"
-Name:  "VID_20240531_191145.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-05/VID_20240531_191145.mp4"
-Size:  211960056
---------------------
 groupName= "VID_20240531_193837"
 Path= "/home/andy/From Smartfone/!2024/2024-05"
 Error: could not load image: "VID_20240531_193837.mp4"
-Name:  "VID_20240531_193837.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-05/VID_20240531_193837.mp4"
-Size:  784103954
---------------------
 groupName= "VID_20240531_205701"
 Path= "/home/andy/From Smartfone/!2024/2024-05"
 Error: could not load image: "VID_20240531_205701.mp4"
-Name:  "VID_20240531_205701.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-05/VID_20240531_205701.mp4"
-Size:  83441576
---------------------
 groupName= "VID_20240531_210434"
 Path= "/home/andy/From Smartfone/!2024/2024-05"
 Error: could not load image: "VID_20240531_210434.mp4"
-Name:  "VID_20240531_210434.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-05/VID_20240531_210434.mp4"
-Size:  84374981
---------------------
 groupName= "IMG_20240601_095137"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 groupName= "IMG_20240601_095139"
@@ -6730,241 +5767,105 @@ Path= "/home/andy/From Smartfone/!2024/2024-06"
 groupName= "VID_20240601_094643"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240601_094643.mp4"
-Name:  "VID_20240601_094643.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240601_094643.mp4"
-Size:  69899304
---------------------
 groupName= "VID_20240601_111214"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240601_111214.mp4"
-Name:  "VID_20240601_111214.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240601_111214.mp4"
-Size:  18824308
---------------------
 groupName= "VID_20240601_111346"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240601_111346.mp4"
-Name:  "VID_20240601_111346.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240601_111346.mp4"
-Size:  95889739
---------------------
 groupName= "VID_20240601_122050"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240601_122050.mp4"
-Name:  "VID_20240601_122050.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240601_122050.mp4"
-Size:  35345128
---------------------
 groupName= "VID_20240601_122111"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240601_122111.mp4"
-Name:  "VID_20240601_122111.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240601_122111.mp4"
-Size:  9005401
---------------------
 groupName= "VID_20240601_122124"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240601_122124.mp4"
-Name:  "VID_20240601_122124.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240601_122124.mp4"
-Size:  11085249
---------------------
 groupName= "VID_20240601_122314"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240601_122314.mp4"
-Name:  "VID_20240601_122314.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240601_122314.mp4"
-Size:  34113233
---------------------
 groupName= "VID_20240601_122342"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240601_122342.mp4"
-Name:  "VID_20240601_122342.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240601_122342.mp4"
-Size:  4413078
---------------------
 groupName= "VID_20240601_122347"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240601_122347.mp4"
-Name:  "VID_20240601_122347.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240601_122347.mp4"
-Size:  11014288
---------------------
 groupName= "VID_20240601_122354"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240601_122354.mp4"
-Name:  "VID_20240601_122354.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240601_122354.mp4"
-Size:  12125218
---------------------
 groupName= "VID_20240601_122731"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240601_122731.mp4"
-Name:  "VID_20240601_122731.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240601_122731.mp4"
-Size:  30328094
---------------------
 groupName= "VID_20240601_122919"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240601_122919.mp4"
-Name:  "VID_20240601_122919.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240601_122919.mp4"
-Size:  23381548
---------------------
 groupName= "VID_20240601_163505"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240601_163505.mp4"
-Name:  "VID_20240601_163505.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240601_163505.mp4"
-Size:  87641223
---------------------
 groupName= "VID_20240601_163605"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240601_163605.mp4"
-Name:  "VID_20240601_163605.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240601_163605.mp4"
-Size:  59820439
---------------------
 groupName= "VID_20240601_180311"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240601_180311.mp4"
-Name:  "VID_20240601_180311.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240601_180311.mp4"
-Size:  30700994
---------------------
 groupName= "VID_20240601_180336"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240601_180336.mp4"
-Name:  "VID_20240601_180336.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240601_180336.mp4"
-Size:  26495884
---------------------
 groupName= "VID_20240601_181950"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240601_181950.mp4"
-Name:  "VID_20240601_181950.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240601_181950.mp4"
-Size:  11583007
---------------------
 groupName= "VID_20240602_101832"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240602_101832.mp4"
-Name:  "VID_20240602_101832.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240602_101832.mp4"
-Size:  9255616
---------------------
 groupName= "VID_20240602_103804"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240602_103804.mp4"
-Name:  "VID_20240602_103804.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240602_103804.mp4"
-Size:  22253061
---------------------
 groupName= "VID_20240602_103838"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240602_103838.mp4"
-Name:  "VID_20240602_103838.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240602_103838.mp4"
-Size:  23673227
---------------------
 groupName= "VID_20240602_103907"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240602_103907.mp4"
-Name:  "VID_20240602_103907.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240602_103907.mp4"
-Size:  47939529
---------------------
 groupName= "VID_20240602_104025"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240602_104025.mp4"
-Name:  "VID_20240602_104025.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240602_104025.mp4"
-Size:  124030308
---------------------
 groupName= "VID_20240602_122601"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240602_122601.mp4"
-Name:  "VID_20240602_122601.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240602_122601.mp4"
-Size:  9537055
---------------------
 groupName= "VID_20240602_122908"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240602_122908.mp4"
-Name:  "VID_20240602_122908.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240602_122908.mp4"
-Size:  5710384
---------------------
 groupName= "VID_20240609_090738"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240609_090738.mp4"
-Name:  "VID_20240609_090738.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240609_090738.mp4"
-Size:  128218831
---------------------
 groupName= "VID_20240629_094114"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240629_094114.mp4"
-Name:  "VID_20240629_094114.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240629_094114.mp4"
-Size:  12997059
---------------------
 groupName= "VID_20240629_094129"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240629_094129.mp4"
-Name:  "VID_20240629_094129.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240629_094129.mp4"
-Size:  33248333
---------------------
 groupName= "VID_20240629_103435"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240629_103435.mp4"
-Name:  "VID_20240629_103435.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240629_103435.mp4"
-Size:  18911359
---------------------
 groupName= "VID_20240629_125655"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240629_125655.mp4"
-Name:  "VID_20240629_125655.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240629_125655.mp4"
-Size:  11605570
---------------------
 groupName= "VID_20240629_125706"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240629_125706.mp4"
-Name:  "VID_20240629_125706.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240629_125706.mp4"
-Size:  15775952
---------------------
 groupName= "VID_20240629_132858"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240629_132858.mp4"
-Name:  "VID_20240629_132858.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240629_132858.mp4"
-Size:  25371062
---------------------
 groupName= "VID_20240629_173853"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240629_173853.mp4"
-Name:  "VID_20240629_173853.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240629_173853.mp4"
-Size:  27392861
---------------------
 groupName= "VID_20240630_103727"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240630_103727.mp4"
-Name:  "VID_20240630_103727.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240630_103727.mp4"
-Size:  45715107
---------------------
 groupName= "VID_20240630_132256"
 Path= "/home/andy/From Smartfone/!2024/2024-06"
 Error: could not load image: "VID_20240630_132256.mp4"
-Name:  "VID_20240630_132256.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-06/VID_20240630_132256.mp4"
-Size:  27610160
---------------------
 groupName= "IMG_20240701_210547"
 Path= "/home/andy/From Smartfone/!2024/2024-07"
 groupName= "IMG_20240701_210752"
@@ -7066,164 +5967,72 @@ Path= "/home/andy/From Smartfone/!2024/2024-07"
 groupName= "VID_20240706_111451"
 Path= "/home/andy/From Smartfone/!2024/2024-07"
 Error: could not load image: "VID_20240706_111451.mp4"
-Name:  "VID_20240706_111451.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-07/VID_20240706_111451.mp4"
-Size:  48424201
---------------------
 groupName= "VID_20240706_113651"
 Path= "/home/andy/From Smartfone/!2024/2024-07"
 Error: could not load image: "VID_20240706_113651.mp4"
-Name:  "VID_20240706_113651.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-07/VID_20240706_113651.mp4"
-Size:  30642483
---------------------
 groupName= "VID_20240706_151256"
 Path= "/home/andy/From Smartfone/!2024/2024-07"
 Error: could not load image: "VID_20240706_151256.mp4"
-Name:  "VID_20240706_151256.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-07/VID_20240706_151256.mp4"
-Size:  16389042
---------------------
 groupName= "VID_20240706_152655"
 Path= "/home/andy/From Smartfone/!2024/2024-07"
 Error: could not load image: "VID_20240706_152655.mp4"
-Name:  "VID_20240706_152655.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-07/VID_20240706_152655.mp4"
-Size:  15677373
---------------------
 groupName= "VID_20240706_161542"
 Path= "/home/andy/From Smartfone/!2024/2024-07"
 Error: could not load image: "VID_20240706_161542.mp4"
-Name:  "VID_20240706_161542.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-07/VID_20240706_161542.mp4"
-Size:  4919077
---------------------
 groupName= "VID_20240706_161557"
 Path= "/home/andy/From Smartfone/!2024/2024-07"
 Error: could not load image: "VID_20240706_161557.mp4"
-Name:  "VID_20240706_161557.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-07/VID_20240706_161557.mp4"
-Size:  10542980
---------------------
 groupName= "VID_20240712_125215"
 Path= "/home/andy/From Smartfone/!2024/2024-07"
 Error: could not load image: "VID_20240712_125215.mp4"
-Name:  "VID_20240712_125215.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-07/VID_20240712_125215.mp4"
-Size:  35347374
---------------------
 groupName= "VID_20240713_212103"
 Path= "/home/andy/From Smartfone/!2024/2024-07"
 Error: could not load image: "VID_20240713_212103.mp4"
-Name:  "VID_20240713_212103.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-07/VID_20240713_212103.mp4"
-Size:  20835578
---------------------
 groupName= "VID_20240713_212142"
 Path= "/home/andy/From Smartfone/!2024/2024-07"
 Error: could not load image: "VID_20240713_212142.mp4"
-Name:  "VID_20240713_212142.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-07/VID_20240713_212142.mp4"
-Size:  11959633
---------------------
 groupName= "VID_20240713_212653"
 Path= "/home/andy/From Smartfone/!2024/2024-07"
 Error: could not load image: "VID_20240713_212653.mp4"
-Name:  "VID_20240713_212653.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-07/VID_20240713_212653.mp4"
-Size:  14303647
---------------------
 groupName= "VID_20240718_123550"
 Path= "/home/andy/From Smartfone/!2024/2024-07"
 Error: could not load image: "VID_20240718_123550.mp4"
-Name:  "VID_20240718_123550.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-07/VID_20240718_123550.mp4"
-Size:  13417137
---------------------
 groupName= "VID_20240718_124555"
 Path= "/home/andy/From Smartfone/!2024/2024-07"
 Error: could not load image: "VID_20240718_124555.mp4"
-Name:  "VID_20240718_124555.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-07/VID_20240718_124555.mp4"
-Size:  33426392
---------------------
 groupName= "VID_20240720_111407"
 Path= "/home/andy/From Smartfone/!2024/2024-07"
 Error: could not load image: "VID_20240720_111407.mp4"
-Name:  "VID_20240720_111407.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-07/VID_20240720_111407.mp4"
-Size:  23456971
---------------------
 groupName= "VID_20240720_170645"
 Path= "/home/andy/From Smartfone/!2024/2024-07"
 Error: could not load image: "VID_20240720_170645.mp4"
-Name:  "VID_20240720_170645.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-07/VID_20240720_170645.mp4"
-Size:  54628699
---------------------
 groupName= "VID_20240720_175939"
 Path= "/home/andy/From Smartfone/!2024/2024-07"
 Error: could not load image: "VID_20240720_175939.mp4"
-Name:  "VID_20240720_175939.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-07/VID_20240720_175939.mp4"
-Size:  19034840
---------------------
 groupName= "VID_20240721_100145"
 Path= "/home/andy/From Smartfone/!2024/2024-07"
 Error: could not load image: "VID_20240721_100145.mp4"
-Name:  "VID_20240721_100145.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-07/VID_20240721_100145.mp4"
-Size:  63546425
---------------------
 groupName= "VID_20240721_100358"
 Path= "/home/andy/From Smartfone/!2024/2024-07"
 Error: could not load image: "VID_20240721_100358.mp4"
-Name:  "VID_20240721_100358.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-07/VID_20240721_100358.mp4"
-Size:  28050918
---------------------
 groupName= "VID_20240721_104427"
 Path= "/home/andy/From Smartfone/!2024/2024-07"
 Error: could not load image: "VID_20240721_104427.mp4"
-Name:  "VID_20240721_104427.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-07/VID_20240721_104427.mp4"
-Size:  7606901
---------------------
 groupName= "VID_20240721_104434"
 Path= "/home/andy/From Smartfone/!2024/2024-07"
 Error: could not load image: "VID_20240721_104434.mp4"
-Name:  "VID_20240721_104434.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-07/VID_20240721_104434.mp4"
-Size:  46012951
---------------------
 groupName= "VID_20240721_104531"
 Path= "/home/andy/From Smartfone/!2024/2024-07"
 Error: could not load image: "VID_20240721_104531.mp4"
-Name:  "VID_20240721_104531.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-07/VID_20240721_104531.mp4"
-Size:  39886527
---------------------
 groupName= "VID_20240721_134109"
 Path= "/home/andy/From Smartfone/!2024/2024-07"
 Error: could not load image: "VID_20240721_134109.mp4"
-Name:  "VID_20240721_134109.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-07/VID_20240721_134109.mp4"
-Size:  7575397
---------------------
 groupName= "VID_20240721_134138"
 Path= "/home/andy/From Smartfone/!2024/2024-07"
 Error: could not load image: "VID_20240721_134138.mp4"
-Name:  "VID_20240721_134138.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-07/VID_20240721_134138.mp4"
-Size:  6310231
---------------------
 groupName= "VID_20240727_110443"
 Path= "/home/andy/From Smartfone/!2024/2024-07"
 Error: could not load image: "VID_20240727_110443.mp4"
-Name:  "VID_20240727_110443.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-07/VID_20240727_110443.mp4"
-Size:  11491380
---------------------
 groupName= "IMG_20240801_072911"
 Path= "/home/andy/From Smartfone/!2024/2024-08"
 groupName= "IMG_20240801_073029"
@@ -7291,17 +6100,9 @@ Path= "/home/andy/From Smartfone/!2024/2024-08"
 groupName= "VID_20240824_121839"
 Path= "/home/andy/From Smartfone/!2024/2024-08"
 Error: could not load image: "VID_20240824_121839.mp4"
-Name:  "VID_20240824_121839.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-08/VID_20240824_121839.mp4"
-Size:  37621858
---------------------
 groupName= "VID_20240825_114227"
 Path= "/home/andy/From Smartfone/!2024/2024-08"
 Error: could not load image: "VID_20240825_114227.mp4"
-Name:  "VID_20240825_114227.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-08/VID_20240825_114227.mp4"
-Size:  28130345
---------------------
 groupName= "IMG_20240901_093136"
 Path= "/home/andy/From Smartfone/!2024/2024-09"
 groupName= "IMG_20240901_124202"
@@ -7363,52 +6164,24 @@ Path= "/home/andy/From Smartfone/!2024/2024-09"
 groupName= "VID_20240907_153733"
 Path= "/home/andy/From Smartfone/!2024/2024-09"
 Error: could not load image: "VID_20240907_153733.mp4"
-Name:  "VID_20240907_153733.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-09/VID_20240907_153733.mp4"
-Size:  44222840
---------------------
 groupName= "VID_20240907_155509"
 Path= "/home/andy/From Smartfone/!2024/2024-09"
 Error: could not load image: "VID_20240907_155509.mp4"
-Name:  "VID_20240907_155509.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-09/VID_20240907_155509.mp4"
-Size:  48087279
---------------------
 groupName= "VID_20240907_222358"
 Path= "/home/andy/From Smartfone/!2024/2024-09"
 Error: could not load image: "VID_20240907_222358.mp4"
-Name:  "VID_20240907_222358.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-09/VID_20240907_222358.mp4"
-Size:  37813153
---------------------
 groupName= "VID_20240921_123113"
 Path= "/home/andy/From Smartfone/!2024/2024-09"
 Error: could not load image: "VID_20240921_123113.mp4"
-Name:  "VID_20240921_123113.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-09/VID_20240921_123113.mp4"
-Size:  12822617
---------------------
 groupName= "VID_20240921_123359"
 Path= "/home/andy/From Smartfone/!2024/2024-09"
 Error: could not load image: "VID_20240921_123359.mp4"
-Name:  "VID_20240921_123359.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-09/VID_20240921_123359.mp4"
-Size:  16592082
---------------------
 groupName= "VID_20240921_123519"
 Path= "/home/andy/From Smartfone/!2024/2024-09"
 Error: could not load image: "VID_20240921_123519.mp4"
-Name:  "VID_20240921_123519.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-09/VID_20240921_123519.mp4"
-Size:  19312223
---------------------
 groupName= "VID_20240921_155501"
 Path= "/home/andy/From Smartfone/!2024/2024-09"
 Error: could not load image: "VID_20240921_155501.mp4"
-Name:  "VID_20240921_155501.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-09/VID_20240921_155501.mp4"
-Size:  16837967
---------------------
 groupName= "IMG_20241004_054105"
 Path= "/home/andy/From Smartfone/!2024/2024-10"
 groupName= "IMG_20241004_165459"
@@ -7632,101 +6405,45 @@ Path= "/home/andy/From Smartfone/!2024/2024-10"
 groupName= "VID_20241012_110034"
 Path= "/home/andy/From Smartfone/!2024/2024-10"
 Error: could not load image: "VID_20241012_110034.mp4"
-Name:  "VID_20241012_110034.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-10/VID_20241012_110034.mp4"
-Size:  16603770
---------------------
 groupName= "VID_20241012_120434"
 Path= "/home/andy/From Smartfone/!2024/2024-10"
 Error: could not load image: "VID_20241012_120434.mp4"
-Name:  "VID_20241012_120434.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-10/VID_20241012_120434.mp4"
-Size:  56572670
---------------------
 groupName= "VID_20241012_120553"
 Path= "/home/andy/From Smartfone/!2024/2024-10"
 Error: could not load image: "VID_20241012_120553.mp4"
-Name:  "VID_20241012_120553.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-10/VID_20241012_120553.mp4"
-Size:  10145414
---------------------
 groupName= "VID_20241012_120620"
 Path= "/home/andy/From Smartfone/!2024/2024-10"
 Error: could not load image: "VID_20241012_120620.mp4"
-Name:  "VID_20241012_120620.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-10/VID_20241012_120620.mp4"
-Size:  92582737
---------------------
 groupName= "VID_20241012_122257"
 Path= "/home/andy/From Smartfone/!2024/2024-10"
 Error: could not load image: "VID_20241012_122257.mp4"
-Name:  "VID_20241012_122257.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-10/VID_20241012_122257.mp4"
-Size:  16749663
---------------------
 groupName= "VID_20241012_182654"
 Path= "/home/andy/From Smartfone/!2024/2024-10"
 Error: could not load image: "VID_20241012_182654.mp4"
-Name:  "VID_20241012_182654.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-10/VID_20241012_182654.mp4"
-Size:  12563542
---------------------
 groupName= "VID_20241012_182753"
 Path= "/home/andy/From Smartfone/!2024/2024-10"
 Error: could not load image: "VID_20241012_182753.mp4"
-Name:  "VID_20241012_182753.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-10/VID_20241012_182753.mp4"
-Size:  814748429
---------------------
 groupName= "VID_20241012_195040"
 Path= "/home/andy/From Smartfone/!2024/2024-10"
 Error: could not load image: "VID_20241012_195040.mp4"
-Name:  "VID_20241012_195040.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-10/VID_20241012_195040.mp4"
-Size:  61046379
---------------------
 groupName= "VID_20241013_123621"
 Path= "/home/andy/From Smartfone/!2024/2024-10"
 Error: could not load image: "VID_20241013_123621.mp4"
-Name:  "VID_20241013_123621.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-10/VID_20241013_123621.mp4"
-Size:  11417539
---------------------
 groupName= "VID_20241013_124424"
 Path= "/home/andy/From Smartfone/!2024/2024-10"
 Error: could not load image: "VID_20241013_124424.mp4"
-Name:  "VID_20241013_124424.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-10/VID_20241013_124424.mp4"
-Size:  46979989
---------------------
 groupName= "VID_20241013_124534"
 Path= "/home/andy/From Smartfone/!2024/2024-10"
 Error: could not load image: "VID_20241013_124534.mp4"
-Name:  "VID_20241013_124534.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-10/VID_20241013_124534.mp4"
-Size:  35158095
---------------------
 groupName= "VID_20241013_124632"
 Path= "/home/andy/From Smartfone/!2024/2024-10"
 Error: could not load image: "VID_20241013_124632.mp4"
-Name:  "VID_20241013_124632.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-10/VID_20241013_124632.mp4"
-Size:  100965718
---------------------
 groupName= "VID_20241013_125139"
 Path= "/home/andy/From Smartfone/!2024/2024-10"
 Error: could not load image: "VID_20241013_125139.mp4"
-Name:  "VID_20241013_125139.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-10/VID_20241013_125139.mp4"
-Size:  33578737
---------------------
 groupName= "VID_20241013_125321"
 Path= "/home/andy/From Smartfone/!2024/2024-10"
 Error: could not load image: "VID_20241013_125321.mp4"
-Name:  "VID_20241013_125321.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-10/VID_20241013_125321.mp4"
-Size:  36862426
---------------------
 groupName= "IMG_20241103_113525"
 Path= "/home/andy/From Smartfone/!2024/2024-11"
 groupName= "IMG_20241103_130548"
@@ -7790,38 +6507,18 @@ Path= "/home/andy/From Smartfone/!2024/2024-11"
 groupName= "VID_20241103_200948"
 Path= "/home/andy/From Smartfone/!2024/2024-11"
 Error: could not load image: "VID_20241103_200948.mp4"
-Name:  "VID_20241103_200948.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-11/VID_20241103_200948.mp4"
-Size:  8466548
---------------------
 groupName= "VID_20241103_200954"
 Path= "/home/andy/From Smartfone/!2024/2024-11"
 Error: could not load image: "VID_20241103_200954.mp4"
-Name:  "VID_20241103_200954.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-11/VID_20241103_200954.mp4"
-Size:  22423421
---------------------
 groupName= "VID_20241103_204357"
 Path= "/home/andy/From Smartfone/!2024/2024-11"
 Error: could not load image: "VID_20241103_204357.mp4"
-Name:  "VID_20241103_204357.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-11/VID_20241103_204357.mp4"
-Size:  3680723
---------------------
 groupName= "VID_20241103_204401"
 Path= "/home/andy/From Smartfone/!2024/2024-11"
 Error: could not load image: "VID_20241103_204401.mp4"
-Name:  "VID_20241103_204401.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-11/VID_20241103_204401.mp4"
-Size:  20220765
---------------------
 groupName= "VID_20241116_210725"
 Path= "/home/andy/From Smartfone/!2024/2024-11"
 Error: could not load image: "VID_20241116_210725.mp4"
-Name:  "VID_20241116_210725.mp4"
-Path:  "/home/andy/From Smartfone/!2024/2024-11/VID_20241116_210725.mp4"
-Size:  97847898
---------------------
 groupName= "IMG_20151226_182625"
 Path= "/home/andy/From Smartfone/!Licey-82"
 groupName= "IMG_20151226_182631"
@@ -7997,112 +6694,48 @@ Path= "/home/andy/From Smartfone/!WORK"
 groupName= "VID_20210425_115443"
 Path= "/home/andy/From Smartfone/Sveta competition 26042021"
 Error: could not load image: "VID_20210425_115443.mp4"
-Name:  "VID_20210425_115443.mp4"
-Path:  "/home/andy/From Smartfone/Sveta competition 26042021/VID_20210425_115443.mp4"
-Size:  20785883
---------------------
 groupName= "VID_20210425_115808"
 Path= "/home/andy/From Smartfone/Sveta competition 26042021"
 Error: could not load image: "VID_20210425_115808.mp4"
-Name:  "VID_20210425_115808.mp4"
-Path:  "/home/andy/From Smartfone/Sveta competition 26042021/VID_20210425_115808.mp4"
-Size:  16245055
---------------------
 groupName= "VID_20210425_115943"
 Path= "/home/andy/From Smartfone/Sveta competition 26042021"
 Error: could not load image: "VID_20210425_115943.mp4"
-Name:  "VID_20210425_115943.mp4"
-Path:  "/home/andy/From Smartfone/Sveta competition 26042021/VID_20210425_115943.mp4"
-Size:  36818695
---------------------
 groupName= "VID_20210425_120619"
 Path= "/home/andy/From Smartfone/Sveta competition 26042021"
 Error: could not load image: "VID_20210425_120619.mp4"
-Name:  "VID_20210425_120619.mp4"
-Path:  "/home/andy/From Smartfone/Sveta competition 26042021/VID_20210425_120619.mp4"
-Size:  38029858
---------------------
 groupName= "VID_20210425_120954"
 Path= "/home/andy/From Smartfone/Sveta competition 26042021"
 Error: could not load image: "VID_20210425_120954.mp4"
-Name:  "VID_20210425_120954.mp4"
-Path:  "/home/andy/From Smartfone/Sveta competition 26042021/VID_20210425_120954.mp4"
-Size:  9971506
---------------------
 groupName= "VID_20210425_121426"
 Path= "/home/andy/From Smartfone/Sveta competition 26042021"
 Error: could not load image: "VID_20210425_121426.mp4"
-Name:  "VID_20210425_121426.mp4"
-Path:  "/home/andy/From Smartfone/Sveta competition 26042021/VID_20210425_121426.mp4"
-Size:  52537498
---------------------
 groupName= "VID_20210425_121439"
 Path= "/home/andy/From Smartfone/Sveta competition 26042021"
 Error: could not load image: "VID_20210425_121439.mp4"
-Name:  "VID_20210425_121439.mp4"
-Path:  "/home/andy/From Smartfone/Sveta competition 26042021/VID_20210425_121439.mp4"
-Size:  12760595
---------------------
 groupName= "VID_20210425_121521"
 Path= "/home/andy/From Smartfone/Sveta competition 26042021"
 Error: could not load image: "VID_20210425_121521.mp4"
-Name:  "VID_20210425_121521.mp4"
-Path:  "/home/andy/From Smartfone/Sveta competition 26042021/VID_20210425_121521.mp4"
-Size:  13027714
---------------------
 groupName= "VID_20210425_121604"
 Path= "/home/andy/From Smartfone/Sveta competition 26042021"
 Error: could not load image: "VID_20210425_121604.mp4"
-Name:  "VID_20210425_121604.mp4"
-Path:  "/home/andy/From Smartfone/Sveta competition 26042021/VID_20210425_121604.mp4"
-Size:  3183211
---------------------
 groupName= "VID_20210425_122140"
 Path= "/home/andy/From Smartfone/Sveta competition 26042021"
 Error: could not load image: "VID_20210425_122140.mp4"
-Name:  "VID_20210425_122140.mp4"
-Path:  "/home/andy/From Smartfone/Sveta competition 26042021/VID_20210425_122140.mp4"
-Size:  47833090
---------------------
 groupName= "VID_20210425_122308"
 Path= "/home/andy/From Smartfone/Sveta competition 26042021"
 Error: could not load image: "VID_20210425_122308.mp4"
-Name:  "VID_20210425_122308.mp4"
-Path:  "/home/andy/From Smartfone/Sveta competition 26042021/VID_20210425_122308.mp4"
-Size:  48496898
---------------------
 groupName= "VID_20210425_122435"
 Path= "/home/andy/From Smartfone/Sveta competition 26042021"
 Error: could not load image: "VID_20210425_122435.mp4"
-Name:  "VID_20210425_122435.mp4"
-Path:  "/home/andy/From Smartfone/Sveta competition 26042021/VID_20210425_122435.mp4"
-Size:  104459369
---------------------
 groupName= "VID_20210425_123147"
 Path= "/home/andy/From Smartfone/Sveta competition 26042021"
 Error: could not load image: "VID_20210425_123147.mp4"
-Name:  "VID_20210425_123147.mp4"
-Path:  "/home/andy/From Smartfone/Sveta competition 26042021/VID_20210425_123147.mp4"
-Size:  588251136
---------------------
 groupName= "VID_20210425_123835"
 Path= "/home/andy/From Smartfone/Sveta competition 26042021"
 Error: could not load image: "VID_20210425_123835.mp4"
-Name:  "VID_20210425_123835.mp4"
-Path:  "/home/andy/From Smartfone/Sveta competition 26042021/VID_20210425_123835.mp4"
-Size:  699247865
---------------------
 groupName= "VID_20210425_124603"
 Path= "/home/andy/From Smartfone/Sveta competition 26042021"
 Error: could not load image: "VID_20210425_124603.mp4"
-Name:  "VID_20210425_124603.mp4"
-Path:  "/home/andy/From Smartfone/Sveta competition 26042021/VID_20210425_124603.mp4"
-Size:  769850829
---------------------
 groupName= "VID_20210425_124806"
 Path= "/home/andy/From Smartfone/Sveta competition 26042021"
 Error: could not load image: "VID_20210425_124806.mp4"
-Name:  "VID_20210425_124806.mp4"
-Path:  "/home/andy/From Smartfone/Sveta competition 26042021/VID_20210425_124806.mp4"
-Size:  64506281
---------------------
