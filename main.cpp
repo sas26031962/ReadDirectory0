@@ -85,28 +85,38 @@ int main(int argc, char *argv[]) {
 
         int size = cRecord::RecordList->at(i).iSize;
 
+
         //Фрагмент для обработки файлов изображений
         QImage image(path);//name
-        if(image.isNull())
+        bool IsError = image.isNull();
+        int width = 0;
+        int height = 0;
+
+        if(IsError)
         {
             qDebug() << "Error: could not load image:" << name;
             cRecord::RecordList->at(i).show();
         }
         else
         {
-            int width = image.width();
-            int height = image.height();
-
+            width = image.width();
+            height = image.height();
+        }
             settings.beginGroup(groupName);
             settings.setValue("Id", Id);
             settings.setValue("name", name);
             settings.setValue("path", PathWithoutName);
             settings.setValue("size", size);
-            settings.setValue("width", width);
-            settings.setValue("height", height);
+            if(IsError)
+            {
+                settings.setValue("error", true);
+            }
+            else
+            {
+                settings.setValue("width", width);
+                settings.setValue("height", height);
+            }
             settings.endGroup();
-        }
-
     }
 
     //---Освобождение ресурсов---
