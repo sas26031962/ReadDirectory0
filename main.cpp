@@ -74,14 +74,14 @@ int main(int argc, char *argv[]) {
         QString name = cRecord::RecordList->at(i).qsName;
         int iDotPosition = name.indexOf('.');
         QString groupName = name.mid(0, iDotPosition);
-        qDebug() << "groupName=" << groupName;
+        //qDebug() << "groupName=" << groupName;
 
         Id++;//Счётчик записей
 
         QString path = cRecord::RecordList->at(i).qsPath;
         int iNamePosition = path.indexOf(name);
         QString PathWithoutName = path.mid(0, iNamePosition - 1);
-        qDebug() << "Path=" << PathWithoutName;
+        //qDebug() << "Path=" << PathWithoutName;
 
         int size = cRecord::RecordList->at(i).iSize;
 
@@ -118,7 +118,7 @@ int main(int argc, char *argv[]) {
             }
             settings.endGroup();
     }
-
+    qDebug() << "==================Task is done!!!=========================";
     //---Освобождение ресурсов---
 
     return a.exec();
