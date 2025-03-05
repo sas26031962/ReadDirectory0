@@ -85,23 +85,28 @@ int main(int argc, char *argv[]) {
 
         int size = cRecord::RecordList->at(i).iSize;
 
+        int iExtensionPosition = path.indexOf('.');
+        QString qsExtension = path.mid(iExtensionPosition + 1);
 
-        //Фрагмент для обработки файлов изображений
-        QImage image(path);//name
-        bool IsError = image.isNull();
+        //qDebug() << "Extension:" << qsExtension.toLower();
+
+        bool IsError = false;
         int width = 0;
         int height = 0;
 
-        if(IsError)
+        if(qsExtension.toLower() == "mp4")
         {
-            qDebug() << "Error: could not load image:" << name;
-            //cRecord::RecordList->at(i).show();
+            qDebug() << "Extension: mp4";
         }
         else
         {
+            //Фрагмент для обработки файлов изображений
+            QImage image(path);//name
+
             width = image.width();
             height = image.height();
         }
+
             settings.beginGroup(groupName);
             settings.setValue("Id", Id);
             settings.setValue("name", name);
