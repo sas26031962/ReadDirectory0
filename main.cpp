@@ -15,14 +15,15 @@ int main(int argc, char *argv[]) {
     cRecord::RecordList = ptrRecordList.get();
 
     // Путь к каталогу, который нужно прочитать.
-    QString directoryPath = "/home/andy/From Smartfone"; // Путь для linux mint
+    //QString directoryPath = "/home/andy/From Smartfone"; // Путь для linux mint
     //QString directoryPath = "C:/Work/Pictures"; // Путь для Windows10
+    QString directoryPath = "C:/Work/Ships"; // Путь для Windows10 branch Ships
 
     //Создаём файл конфигурации
     QDir executableDir(QCoreApplication::applicationDirPath());
 
     // Создаем путь к INI-файлу в той же директории
-    QString iniFilePath = executableDir.filePath("../Data/FilesConfig.ini");
+    QString iniFilePath = executableDir.filePath("C:/WORK/ReadDirectory0/programm/data/FilesConfigShips.ini");//C:/WORK/ReadDirectory0/programm/data
 
     // Создаем объект QSettings с указанием формата INI и пути к файлу
     QSettings settings(iniFilePath, QSettings::IniFormat);
@@ -54,7 +55,7 @@ int main(int argc, char *argv[]) {
         return 1;
     }
 
-    qDebug() << "====================";
+    //qDebug() << "====================";
 
     //---Чтение данных---
 
@@ -63,6 +64,7 @@ int main(int argc, char *argv[]) {
     int iRecordListLength = cRecord::RecordList->count();
 
     settings.beginGroup("RecordList");
+    settings.setValue("root_path", directoryPath);
     settings.setValue("length", iRecordListLength);
     settings.endGroup();
 
