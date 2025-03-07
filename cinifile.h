@@ -4,6 +4,8 @@
 #include <QString>
 #include <QSettings>
 #include <QDebug>
+#include <QImage>
+#include "crecord.h"
 
 class cIniFile
 {
@@ -25,6 +27,7 @@ public:
     QString getDirectoryPah();
 
     void addInitalSection(int n);
+    void addRecordListData();
 };
 
 #endif // CINIFILE_H
