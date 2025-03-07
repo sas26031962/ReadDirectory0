@@ -11,7 +11,8 @@ CONFIG += c++14 # Добавляем поддержку C++14
 
 SOURCES += \
         main.cpp \
-    crecord.cpp
+    crecord.cpp \
+    cinifile.cpp
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
@@ -19,7 +20,8 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
 
 HEADERS += \
-    crecord.h
+    crecord.h \
+    cinifile.h
 
 DISTFILES += \
     Data/FilesConfig.ini \
